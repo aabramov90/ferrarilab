@@ -23,17 +23,7 @@ editor_options:
 ![](images/doctor_giovanni_ferrari.jpg)
 </left>
 
-<right>
-Associate Professor of Surgical Sciences and Scientific Director of the Cardiothoracic Research Program at Columbia University. He has over 13 years experience in the field of cell biology and cardiovascular medicine. After his postdoctoral work at New York University he became faculty and group leader at University of Pennsylvania, first as Assistant, and later, as Associate Professor. At UPenn he launched the Penn Cardiac Bioregistry for the division of cardiovascular surgery. In 2017 he relocated his program to Columbia. Currently he is directing the Columbia Biobank for Translational Studies (CBTS), an applied human biobank and clinical database supporting translational and precision medicine initiatives. Dr. Ferrari maintains his role as principal investigator of the Penn Cardiac Bioregistry and Adjunct Associate Professor at UPenn.
-
-Giovanni Ferrari, PhD\
-Associate Professor\
-Columbia University Department of Surgery\
-Director, Cardiothoracic Surgery Research\
-Director, Columbia Biobank for Translational Science (CBTS)\
-Black Building – 650 W. 168th Street, 4th Floor Suite 4-443\
-New York, NY 10032\
-Office: (212) 305-8615\
+First-generation graduate (U of Pavia, 2003), I am a group leader and Associate Professor (with tenure) at Columbia University, Dept. of Surgery and Biomedical Engineering. I am Scientific Director of the Cardiothoracic Research Program and Director of the Columbia Biobank for Translational Science, an applied biobank supporting translational and precision medicine initiatives. Heart valve and vascular cell physiology, cardiac mechanobiology, materials science in medical devices, and the brain-heart axis are my main research interests.
 
 </right>
 
@@ -41,27 +31,31 @@ Office: (212) 305-8615\
 				
 ### Associate Research Scientists
 
- *Esti Castillero, PhD*
+*Esti Castillero, PhD*
  
- * [Twitter](https:twitter.com/esticastillero)
+[Twitter](https:twitter.com/esticastillero)
 
 
-
- *Chiara Camillo, PhD*
+*Chiara Camillo, PhD*
 
 \
 
 ### Postdoctoral Research Fellows	
 
- *Yingfei Xue, PhD*
+ *Yingfei Xue, PhD*\
+ 
+Dr. Yingfei Xue is currently a postdoctoral research scientist in Dr. Giovanni Ferrari lab at Columbia University. He obtained his PhD degree from University of Pittsburgh School of Pharmacy. His research interest is centered around cardiovascular implants including bioprosthetic valves, conduits, and patches. His research goal is to understand the mechanisms of cardiovascular implant failure and improve implant durability. He has 20 publications and served as editorial board member and reviewer for multiple journals in the fields of biomedical engineering.
 
- *Antonio Frasca, PhD*
+[Email](mailto:<yx2529@cumc.columbia.edu>)
+ 
+
+*Antonio Frasca, PhD*
 
 \
 
 ### Surgical Residents			
 
- *Alexey Abramov, MD*
+*Alexey Abramov, MD*
  
 *Dov Levine, MD*
 
@@ -95,9 +89,22 @@ Office: (212) 305-8615\
 
 ### Biomedical Engineering Students		
 
-*Mar Martinez Mas (Columbia University)*
+*Mar Martinez Mas (Columbia University)*\
+
+
+I am a Master’s student in Biomedical Engineering at Columbia University. I am from Barcelona, Spain, and I studied my undergraduate degree at Universitat Pompeu Fabra where I worked in the field of biomedical electronics. Afterward, I did the last year and a half of my degree at the Politecnico di Milano, where I mainly studied the field of biomechanics. My main interest lies in prosthetic heart valves and life support systems. I joined the Ferrari Lab in 2021. 
+
+[Email](mailto:<mm5944@columbia.edu>)
+
 
 \
+
+### Chief Vision Officer 
+
+*Churro*
+
+2 years old Irish-Doodle. Strong interest in any type of food.
+Life's not ruff when I am around. Woof
 
 ### Alumni
 
