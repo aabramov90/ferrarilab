@@ -3,6 +3,7 @@ title: "Biobank"
 subtitle: "*Columbia University Cardiothoracic Surgery Research Program*"
 output: 
   html_document:
+    theme: journal
     toc: true
     toc_float: true
 editor_options: 
