@@ -16,4 +16,6 @@ navbar:
     - icon: fa-envelope fa-lg
       href: mailto:<gf2375@cumc.columbia.edu>
 output:
-  html_document
+  html_document:
+    theme: journal
+    code_folding: hide
