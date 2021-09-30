@@ -48,15 +48,23 @@ The primary focus of our laboratory research is
 ### Internal Links
 
 [About Us](about.html)\
-[Projects and Publications](projects.html)
+
+[Projects and Publications](projects.html)\
+
+[Biobank Inquiries](biobank.html)\
+
+[Research Program for Residents](program.html)\
 
 
 \
 
 ### External Links
 
-* [Ferrari Lab – Columbia Biobank for Translational Science](https://columbiasurgery.org/research/ferrari-lab)
+[Ferrari Lab – Columbia Biobank for Translational Science](https://columbiasurgery.org/research/ferrari-lab)\
 
+[Columbia Cardiac Surgery](https://columbiasurgery.org/heart)\
+
+[Columbia Surgery Residency Program](https://columbiasurgery.org/general-surgery-residency)
 
 \
 
