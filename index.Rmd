@@ -1,6 +1,6 @@
 ---
 title: "Ferrari Lab"
-subtitle: "*Columbia University Cardiothoracic Surgery Research Program*"
+subtitle: "*Columbia University Medical Center: Cardiothoracic Surgery Research Program*"
 output: 
   html_document:
     toc: true
@@ -12,25 +12,25 @@ editor_options:
 
 # Welcome
 
-## Home
+## Our Lab
 
 Welcome to the Ferrari Laboratory website, we are located at the Columbia University Irving Medical Center in New York City, New York.
 
 \
 
 
-## About Us
+## About Our Research
 
 The primary focus of our laboratory research is 
 
 \
 
 
-## News
+## Lab in the News
 
 \
 
-## Twitter
+## Social Media
 
 \
 
@@ -38,17 +38,10 @@ The primary focus of our laboratory research is
 
 ## Photos 
 
-<center>
 
-</center>
+##  Navigate
 
-\
-
-
-
-##  Links
-
-### Internal Links
+### Ferrari Lab Internal Links
 
 [About Us](about.html)\
 
