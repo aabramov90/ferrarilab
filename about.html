@@ -28,6 +28,9 @@
        h6 {font-size: 12px;}
        code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
        pre:not([class]) { background-color: white }</style>
+<script src="site_libs/jqueryui-1.11.4/jquery-ui.min.js"></script>
+<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
+<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
@@ -219,6 +222,69 @@ $(document).ready(function () {
 
 
 
+<style type="text/css">
+
+#TOC {
+  margin: 25px 0px 20px 0px;
+}
+@media (max-width: 768px) {
+#TOC {
+  position: relative;
+  width: 100%;
+}
+}
+
+@media print {
+.toc-content {
+  /* see https://github.com/w3c/csswg-drafts/issues/4434 */
+  float: right;
+}
+}
+
+.toc-content {
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+div.main-container {
+  max-width: 1200px;
+}
+
+div.tocify {
+  width: 20%;
+  max-width: 260px;
+  max-height: 85%;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  div.tocify {
+    width: 25%;
+  }
+}
+
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+.tocify ul, .tocify li {
+  line-height: 20px;
+}
+
+.tocify-subheader .tocify-item {
+  font-size: 0.90em;
+}
+
+.tocify .list-group-item {
+  border-radius: 0px;
+}
+
+
+</style>
+
+
 
 </head>
 
@@ -226,6 +292,16 @@ $(document).ready(function () {
 
 
 <div class="container-fluid main-container">
+
+
+<!-- setup 3col/9col grid for toc_float and main content  -->
+<div class="row">
+<div class="col-xs-12 col-sm-4 col-md-3">
+<div id="TOC" class="tocify">
+</div>
+</div>
+
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
 
 
 
@@ -270,17 +346,82 @@ $(document).ready(function () {
 
 
 <h1 class="title toc-ignore">About Us</h1>
+<h3 class="subtitle">Columbia University Cardiothoracic Surgery Research Program</h3>
 
 </div>
 
 
-<div id="about-us" class="section level3">
-<h3>About Us</h3>
-<p>Lab members.</p>
+<div id="our-team" class="section level1">
+<h1>Our Team</h1>
+<div id="primary-investigator" class="section level2">
+<h2>Primary Investigator</h2>
+<p><em>Giovanni Ferrari, PhD</em></p>
+<p>Associate Professor of Surgical Sciences and Scientific Director of the Cardiothoracic Research Program at Columbia University. He has over 13 years experience in the field of cell biology and cardiovascular medicine. After his postdoctoral work at New York University he became faculty and group leader at University of Pennsylvania, first as Assistant, and later, as Associate Professor. At UPenn he launched the Penn Cardiac Bioregistry for the division of cardiovascular surgery. In 2017 he relocated his program to Columbia. Currently he is directing the Columbia Biobank for Translational Studies (CBTS), an applied human biobank and clinical database supporting translational and precision medicine initiatives. Dr. Ferrari maintains his role as principal investigator of the Penn Cardiac Bioregistry and Adjunct Associate Professor at UPenn.</p>
+<p><br />
+</p>
+<div id="associate-research-scientists" class="section level3">
+<h3>Associate Research Scientists</h3>
+<p><em>Esti Castillero, PhD</em></p>
+<p><em>Chiara Camillo, PhD</em></p>
+<p><br />
+</p>
+</div>
+<div id="postdoctoral-research-fellows" class="section level3">
+<h3>Postdoctoral Research Fellows</h3>
+<p><em>Yingfei Xue, PhD</em></p>
+<p><em>Antonio Frasca, PhD</em></p>
+<p><br />
+</p>
+</div>
+<div id="surgical-residents" class="section level3">
+<h3>Surgical Residents</h3>
+<p><em>Alexey Abramov, MD</em></p>
+<p><em>Dov Levine, MD</em></p>
+<p><em>Clinton Erwin, MD</em></p>
+<p><em>Michael Simpson, MD</em></p>
+<p><br />
+</p>
+</div>
+<div id="biobank" class="section level3">
+<h3>Biobank</h3>
+<p><em>Vivian Moreno</em></p>
+<p><br />
+</p>
+</div>
+<div id="lab-manager" class="section level3">
+<h3>Lab Manager</h3>
+<p>Mangesh Kurade</p>
+<p><br />
+</p>
+</div>
+<div id="medical-students" class="section level3">
+<h3>Medical Students</h3>
+<p>Nicolo (U of Milan)</p>
+<p>Eduardo (U of Bologna)</p>
+<p>Ervin (Morehouse School of Medicine)</p>
+<p><br />
+</p>
+</div>
+<div id="biomedical-engineering-students" class="section level3">
+<h3>Biomedical Engineering Students</h3>
+<p>Mar Mas Martinez (Columbia U)</p>
+<p><br />
+</p>
+</div>
+<div id="past-alumni" class="section level3">
+<h3><em>Past Alumni</em></h3>
+<p>Residents:</p>
+<p><br />
+</p>
+<p>Postdocs:</p>
+</div>
+</div>
 </div>
 
 
 
+</div>
+</div>
 
 </div>
 
@@ -313,6 +454,35 @@ $(document).ready(function () {
 
 <!-- code folding -->
 
+<script>
+$(document).ready(function ()  {
+
+    // temporarily add toc-ignore selector to headers for the consistency with Pandoc
+    $('.unlisted.unnumbered').addClass('toc-ignore')
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2,h3",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_');
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = true;
+    options.smoothScroll = true;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>

@@ -11,11 +11,22 @@ editor_options:
 
 # Home
 
+Welcome to the *Ferrari Laboratory* website, we are located at the Columbia University Irving Medical Center in New York City, New York.
+
+\
+
+
 ## About Us
 
-Lab information here, goals, projects.
+The primnary focus of our laboratory is 
+
+\
+
 
 ## News
+
+\
+
 
 ## Contacts	
 	Giovanni Ferrari PhD
@@ -25,6 +36,9 @@ Lab information here, goals, projects.
 ## Twitter 
 https://twitter.com/ferrag02
 
+\
+
+
 
 ## Photos 
 
@@ -32,11 +46,19 @@ https://twitter.com/ferrag02
 
 </center>
 
+\
+
+
 
 ## Internal Links
+
 ### Dashboard
 
 [About Us](about.html)
+
+
+\
+
 
 
 ## External Links
@@ -44,3 +66,8 @@ https://twitter.com/ferrag02
 ### Columbia University Website
 
 * [Ferrari Lab – Columbia Biobank for Translational Science](https://columbiasurgery.org/research/ferrari-lab)
+
+
+\
+
+
