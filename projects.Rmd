@@ -1,5 +1,5 @@
 ---
-title: "Our Projects"
+title: "Our Projects and Publications"
 subtitle: "*Columbia University Cardiothoracic Surgery Research Program*"
 output:   
     flexdashboard::flex_dashboard:
@@ -10,9 +10,7 @@ editor_options:
 
 \
 
-# Our Projects and Publications
-
-\
+# Mitral Valve\
 
 ## Myxomatous Mitral Valve Disease
 
@@ -24,10 +22,13 @@ Degenerative mitral regurgitation (MR) due to myxomatous valve disease affects m
 
 \
 
+# Aortic Valve\
 
 ## Calcific Aortic Valve Disease\
 
 \
+
+# Aorta\
 
 ## Aortic Aneurysm and Dissection\
 

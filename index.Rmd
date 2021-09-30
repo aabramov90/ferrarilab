@@ -1,6 +1,5 @@
 ---
 title: "Ferrari Lab"
-subtitle: "*Columbia University Cardiothoracic Surgery Research Program*"
 output: 
   html_document:
     toc: true
@@ -8,6 +7,12 @@ output:
 editor_options: 
   chunk_output_type: console
 ---
+
+<center>
+# *Columbia University Cardiothoracic Surgery Research Program*
+</center>
+
+![](images/Screen Shot 2021-09-30 at 3.56.33 PM.png){width=100%}
 
 # Home
 
