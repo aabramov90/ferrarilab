@@ -28,6 +28,9 @@
        h6 {font-size: 12px;}
        code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
        pre:not([class]) { background-color: white }</style>
+<script src="site_libs/jqueryui-1.11.4/jquery-ui.min.js"></script>
+<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
+<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <script src="site_libs/navigation-1.1/codefolding.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
@@ -223,6 +226,69 @@ $(document).ready(function () {
 
 
 
+<style type="text/css">
+
+#TOC {
+  margin: 25px 0px 20px 0px;
+}
+@media (max-width: 768px) {
+#TOC {
+  position: relative;
+  width: 100%;
+}
+}
+
+@media print {
+.toc-content {
+  /* see https://github.com/w3c/csswg-drafts/issues/4434 */
+  float: right;
+}
+}
+
+.toc-content {
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+div.main-container {
+  max-width: 1200px;
+}
+
+div.tocify {
+  width: 20%;
+  max-width: 260px;
+  max-height: 85%;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  div.tocify {
+    width: 25%;
+  }
+}
+
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+.tocify ul, .tocify li {
+  line-height: 20px;
+}
+
+.tocify-subheader .tocify-item {
+  font-size: 0.90em;
+}
+
+.tocify .list-group-item {
+  border-radius: 0px;
+}
+
+
+</style>
+
+
 
 </head>
 
@@ -230,6 +296,16 @@ $(document).ready(function () {
 
 
 <div class="container-fluid main-container">
+
+
+<!-- setup 3col/9col grid for toc_float and main content  -->
+<div class="row">
+<div class="col-xs-12 col-sm-4 col-md-3">
+<div id="TOC" class="tocify">
+</div>
+</div>
+
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
 
 
 
@@ -299,7 +375,7 @@ $(document).ready(function () {
 <p><br />
 </p>
 <div id="mitral-valve" class="section level1">
-<h1>Mitral Valve<br />
+<h1><u>Mitral Valve </u><br />
 </h1>
 <div id="myxomatous-mitral-valve-disease" class="section level2">
 <h2>Myxomatous Mitral Valve Disease</h2>
@@ -315,7 +391,7 @@ $(document).ready(function () {
 </div>
 </div>
 <div id="aortic-valve" class="section level1">
-<h1>Aortic Valve<br />
+<h1><u>Aortic Valve</u><br />
 </h1>
 <div id="calcific-aortic-valve-disease" class="section level2">
 <h2>Calcific Aortic Valve Disease<br />
@@ -325,46 +401,49 @@ $(document).ready(function () {
 </div>
 </div>
 <div id="aorta" class="section level1">
-<h1>Aorta<br />
+<h1><u>Aorta</u><br />
 </h1>
 <div id="aortic-aneurysm-and-dissection" class="section level2">
 <h2>Aortic Aneurysm and Dissection<br />
 </h2>
 <p>Bicuspid Aortic Valve (BAV) syndrome is associated with frequent and premature occurrence of calcific aortic stenosis (AS) and thoracic aortic aneurysms (TAA), with 30-50% of BAV patients requiring surgery in their lifetime for AS, TAA, or both. It is estimated that 1.4% of the population is born with a BAV, making it the most common congenital heart defect in the US. Eccentric flow dynamics, endothelial dysfunction, and genetic predisposition are key elements impacting the susceptibility of BAV patients to adverse aortic events. Dissection and rupture are mechanical failures of the aortic wall that occurs when the tensile limit of the aortic tissue is overwhelmed. To prevent these events, the ascending aorta is preventively replaced in high-risk patients. The major clinical obstacles hampering the decisions of whether replace the ascending aorta of BAV patients are the absence, in the current guidelines, of any tools informing on the structural integrity of the aortic wall independently of metric measurements and of any non-invasive risk-assessment tools. Here we tested the mechanistic hypothesis that mitigation of glycoxidation reactions revert AGE-mediated paracellular endothelial hyperpermeability and reduce the accumulation of glycol-oxidation products in the ascending aorta of BAV patients.</p>
 </div>
-<div id="biomedical-engineering" class="section level2">
-<h2>Biomedical Engineering</h2>
-<div id="glycation-mediated-mechanisms-of-bioprosthetic-heart-valve-failure" class="section level3">
-<h3>Glycation-mediated mechanisms of Bioprosthetic Heart Valve Failure<br />
-</h3>
+</div>
+<div id="biomedical-engineering" class="section level1">
+<h1><u>Biomedical Engineering</u></h1>
+<div id="glycation-mediated-mechanisms-of-bioprosthetic-heart-valve-failure" class="section level2">
+<h2>Glycation-mediated mechanisms of Bioprosthetic Heart Valve Failure<br />
+</h2>
 <p>Heart valve disease at this time can only be treated surgically, with either valve replacement or repair. Bioprosthetic heart valves (BHV), fabricated from glutaraldehyde fixed heterografts, such as bovine pericardium (BP) or porcine aortic valves (PAV), are widely used in both cardiac surgery and in transcatheter valve replacements. Despite outstanding short-term outcomes, BHV dysfunction due to structural valve leaflet degeneration (SVD) develops over time, frequently necessitating device replacement. Calcification is observed in the majority of SVD cases; however, 25% or more SVD cases are not associated with calcification. Recent work from our group demonstrated that BHV are susceptible to non-calcification induced failure mechanisms, involving the formation of unique oxidized amino acids (OxAA) in BHV, such as the crosslink, di-tyrosine (di-Tyr). Feasibility studies also recently documented in BHV explant samples the presence of advanced glycation end products (AGE). The contributions of both AGE and OxAA to SVD pathophysiology has not been previously investigated by our group or others. We are studying the hypotheses that the accumulation of AGE in BHV leaflets together with the receptor for AGE (RAGE) mediated inflammatory response, and OxAA modification of structural proteins contribute to BHV SVD. These mechanisms also are hypothesized to interact with BHV calcification and co-morbidities, such as diabetes and coronary artery disease to enhance SVD.</p>
 <p><br />
 </p>
 </div>
-<div id="structural-degeneration-of-implantable-biomaterials-in-pediatric-patients" class="section level3">
-<h3>Structural Degeneration of Implantable Biomaterials in Pediatric Patients<br />
-</h3>
+<div id="structural-degeneration-of-implantable-biomaterials-in-pediatric-patients" class="section level2">
+<h2>Structural Degeneration of Implantable Biomaterials in Pediatric Patients<br />
+</h2>
 <p>Despite legislation and federal initiatives, such as the Pediatric Device Consortia Grants Program, intended to facilitate pediatric medical device development, innovation for pediatric cardiac patients continues to lag behind the advances made for adult devices, making children requiring reconstructive heart surgery an underserved population. All implantable biomaterials (glutaraldehyde bovine pericardium, xenograft valves and conduits, cryopreserved allografts, autologous pericardium, and collagen bioscaffolds) as well as some artificial polymers are subjected to structural degeneration driven by calcification (via passive calcium deposition and absorption of calcium-binding proteins) and – as discovered by our group – by glyco-oxidation, which via permanent incorporation of glycated protein and cross-links formation, alters the architecture and mechanical proprieties of biomaterials.</p>
 <p>This application has two overarching goals: to understand the mechanisms of accelerate structural degeneration of cardiac patches, valved conduits, and bioprosthetic heart valves in children and to test mitigation strategies to extend the lifespan of these devices in vitro and in vivo by using juvenile animal models. Clinically, the goal is to reduce the need for multiple cardiac re-operations in pediatric patients by mitigating the mechanisms at the base of the accelerated failure.</p>
 <p><br />
 </p>
 </div>
-<div id="sexual-dimorphism-and-durability-of-implanted-biomaterials-in-patients-with-type-2-diabetes-mellitus" class="section level3">
-<h3>Sexual Dimorphism and Durability of Implanted Biomaterials in Patients with Type 2 Diabetes Mellitus<br />
-</h3>
+<div id="sexual-dimorphism-and-durability-of-implanted-biomaterials-in-patients-with-type-2-diabetes-mellitus" class="section level2">
+<h2>Sexual Dimorphism and Durability of Implanted Biomaterials in Patients with Type 2 Diabetes Mellitus<br />
+</h2>
 <p>Type 2 Diabetes mellitus (T2DM) is a well-known risk factor for heart valve disease, little is known about the mechanisms of accelerated failure of Bioprosthetic Heart Valve in this population. Using a next-generation proteomic approach on an established biobank of retrieved failed Bioprosthetic Heart Valve (BHV) explants and a patented precision medicine susceptibility assay using patient-derived serum we will assess how sexual dimorphism impact the durability of bioprosthetic heart valves in T2DM patients. Mitigation strategies aimed at reducing glycoxidation reactions will be tested to clinically graded valves chemically modified to improve the Bioprosthetic Valve durability of T2DM patients.</p>
 <p><em>Funding Source</em><br />
 <em>Russell Berrie Foundation Pre-translational Diabetes Research Award</em><br />
 <a href="https://www.russellberriefoundation.org/diabetes-care-and-research"><em>Russell Berrie Foundation</em></a><br />
 </p>
 </div>
-<div id="mechanisms-of-cardiac-remodeling-in-covid-19-patients" class="section level3">
-<h3>Mechanisms of Cardiac Remodeling in COVID-19 Patients</h3>
+</div>
+<div id="covid-19-related-cardiomyopathy" class="section level1">
+<h1><u>Covid-19 Related Cardiomyopathy</u></h1>
+<div id="mechanisms-of-cardiac-remodeling-in-covid-19-patients" class="section level2">
+<h2>Mechanisms of Cardiac Remodeling in COVID-19 Patients</h2>
 <p>As a result of the COVID-19 pandemic, it has been shown that patients with pre-existing heart disease are likely to have more severe COVID-19 symptoms than those without pre-existing heart disease. We seek to test the hypothesis that SARS-CoV-2 induces cardiac injury by decreasing ACE2-mediated cardioprotection, and exacerbating AGE/RAGE-mediated cell signaling mechanisms. The 2 major things we seek to address are if this cell signaling pathway induces cardiac injury, and if circulating RAGE signaling markers be used as biomarkers of cardiovascular injury during acute COVID infection, and after recovery from infection.</p>
 <p><em>Funding Source</em><br />
 <em>John Jones Surgical Society Fellowship</em><br />
 <a href="https://columbiasurgery.org/alumni/john-jones-surgical-society"><em>John Jones Surgical Society</em></a></p>
-</div>
 </div>
 <div id="surgical-innovation" class="section level2">
 <h2>Surgical Innovation</h2>
@@ -385,6 +464,8 @@ $(document).ready(function () {
 
 
 
+</div>
+</div>
 
 </div>
 
@@ -422,6 +503,35 @@ $(document).ready(function () {
 });
 </script>
 
+<script>
+$(document).ready(function ()  {
+
+    // temporarily add toc-ignore selector to headers for the consistency with Pandoc
+    $('.unlisted.unnumbered').addClass('toc-ignore')
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2,h3",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_');
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = true;
+    options.smoothScroll = true;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>
