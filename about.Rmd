@@ -164,5 +164,13 @@ The proposed research is relevant to public health because a biostable polymeric
 
 \
 
+
+### Micheal S Sacks PhD
+
+![](images/sacks.jpg){width=25%}
+
+The bicuspid aortic valve (BAV) is the most common cardiac congenital anomaly. Due to the widespread availability and routine use of screening echocardiography, development of clinical methods for the identification of asymptomatic young patients with BAV is now realistic. We thus plan to develop sensitive, clinically derivable functional indices that will yield clinically relevant patient- specific strategies for identifying BAV patients at high risk.
+
+*R01HL142504*
+
 #### Walter 
-#### Sacks
