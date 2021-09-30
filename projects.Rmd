@@ -1,11 +1,9 @@
 ---
 title: "Our Projects"
 subtitle: "*Columbia University Cardiothoracic Surgery Research Program*"
-output: 
-  html_document:
-    theme: journal
-    toc: true
-    toc_float: true
+output:   
+    flexdashboard::flex_dashboard:
+      vertical_layout: scroll
 editor_options: 
   chunk_output_type: console
 ---
@@ -85,8 +83,6 @@ Director, Pediatric Heart Valve Center\
 Surgical Director, Initiative for Pediatric Cardiac Innovation\
 Columbia University College of Physicians and Surgeons\
 New York-Presbyterian Morgan Stanley Children's Hospital\
-
-\
 
 #### Expandable Polymeric-valved Conduit to Repair Congenital Heart Disease
 
