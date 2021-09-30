@@ -74,6 +74,9 @@ Dr. Alexey Abramov is a General Surgery resident in the [New York Presbyterian-C
 
 *Clinton Erwin, MD*
 
+
+![](images/clint.jpg){width=25%}
+
 *Michael Simpson, MD*
 
 \
@@ -120,6 +123,9 @@ Ms. Mar Martinez Mas is a Master’s student in [Biomedical Engineering at Colum
 ### Chief Vision Officer 
 
 *Churro*
+
+
+![](images/churro.jpg){width=25%}
 
 2 years old Irish-Doodle. Strong interest in any type of food.
 Life's not ruff when I am around. Woof
