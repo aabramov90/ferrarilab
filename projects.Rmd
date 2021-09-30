@@ -63,36 +63,3 @@ Type 2 Diabetes mellitus (T2DM) is a well-known risk factor for heart valve dise
 As a result of the COVID-19 pandemic, it has been shown that patients with pre-existing heart disease are likely to have more severe COVID-19 symptoms than those without pre-existing heart disease. We seek to test the hypothesis that SARS-CoV-2 induces cardiac injury by decreasing ACE2-mediated cardioprotection, and exacerbating AGE/RAGE-mediated cell signaling mechanisms. The 2 major things we seek to address are if this cell signaling pathway induces cardiac injury, and if circulating RAGE signaling markers be used as biomarkers of cardiovascular injury during acute COVID infection, and after recovery from infection. 
 
 *John Jones Surgical Society Fellowship*
-
-\
-
-
-## Collaborations:\
-
-
-### Robert J. Levy, MD
-Levy is the director of Cardiology Research, and also serves as program director of the Cardiology National Heart, Lung, and Blood Institute (NHLBI) Research Training Grant. 
-
-His research interests are the pathophysiology of biomaterials used in medicine, basic mechanisms and novel therapies for heart valve disease, arterial angioplasty, local drug delivery, and nanomedicine. He also has experience over three decades in medical device development.
-
-*R01HL131872*
-
-\
-
-### David Kalfa, MD, PhD\
-Florence Irving Assistant Professor of Surgery\
-Section of Pediatric & Congenital Cardiac Surgery\
-Director, Pediatric Heart Valve Center\
-Surgical Director, Initiative for Pediatric Cardiac Innovation\
-Columbia University College of Physicians and Surgeons\
-New York-Presbyterian Morgan Stanley Children's Hospital\
-
-#### Expandable Polymeric-valved Conduit to Repair Congenital Heart Disease
-
-The proposed research is relevant to public health because a biostable polymeric valved conduit that can be implanted surgically to reconstruct the right ventricular outflow tract in neonates and infants and then expanded by successive transcatheter procedures to reach the adult size, would revolutionize how we treat children with heart valve diseases. Such a new generation of valved conduit would decrease the number of open-heart surgeries and reoperations, decrease the mortality, complications and healthcare costs related to these procedures and increase the life expectancy and quality of life of these patients.
-
-*R01HL155381*
-
-
-#### Walter 
-#### Sacks

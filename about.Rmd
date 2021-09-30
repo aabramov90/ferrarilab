@@ -127,3 +127,42 @@ Life's not ruff when I am around. Woof
 Residents
 
 Postdocs
+
+
+\
+
+
+## Collaborations:\
+
+![](images/levy.jpg){width=25%}
+
+### Robert J. Levy, MD
+Levy is the director of Cardiology Research, and also serves as program director of the Cardiology National Heart, Lung, and Blood Institute (NHLBI) Research Training Grant. 
+
+His research interests are the pathophysiology of biomaterials used in medicine, basic mechanisms and novel therapies for heart valve disease, arterial angioplasty, local drug delivery, and nanomedicine. He also has experience over three decades in medical device development.
+
+*R01HL131872*
+
+\
+
+### David Kalfa, MD, PhD\
+
+![](images/kalfa.jpg){width=25%}
+
+Florence Irving Assistant Professor of Surgery\
+Section of Pediatric & Congenital Cardiac Surgery\
+Director, Pediatric Heart Valve Center\
+Surgical Director, Initiative for Pediatric Cardiac Innovation\
+Columbia University College of Physicians and Surgeons\
+New York-Presbyterian Morgan Stanley Children's Hospital\
+
+#### Expandable Polymeric-valved Conduit to Repair Congenital Heart Disease
+
+The proposed research is relevant to public health because a biostable polymeric valved conduit that can be implanted surgically to reconstruct the right ventricular outflow tract in neonates and infants and then expanded by successive transcatheter procedures to reach the adult size, would revolutionize how we treat children with heart valve diseases. Such a new generation of valved conduit would decrease the number of open-heart surgeries and reoperations, decrease the mortality, complications and healthcare costs related to these procedures and increase the life expectancy and quality of life of these patients.
+
+*R01HL155381*
+
+\
+
+#### Walter 
+#### Sacks
