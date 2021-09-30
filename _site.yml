@@ -1,5 +1,6 @@
 name: "Ferrari Lab Website"
 output_dir: "."
+theme: journal
 navbar:
   title: "Ferrari Lab Website"
   right:
