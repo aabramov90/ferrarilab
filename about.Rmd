@@ -12,14 +12,12 @@ editor_options:
 
 # Our Team
 
-## Primary Investigator 
+## <u>Primary Investigator</u>
 
  *Giovanni Ferrari, PhD*
 
-<left>
-![](images/ferrari.jpg){width=25%}
 
-</left>
+![](images/ferrari.jpg){width=25%}
 
 First-generation graduate (U of Pavia, 2003), I am a group leader and Associate Professor (with tenure) at Columbia University, Dept. of Surgery and Biomedical Engineering. I am Scientific Director of the Cardiothoracic Research Program and Director of the Columbia Biobank for Translational Science, an applied biobank supporting translational and precision medicine initiatives. Heart valve and vascular cell physiology, cardiac mechanobiology, materials science in medical devices, and the brain-heart axis are my main research interests.
 
@@ -31,7 +29,7 @@ First-generation graduate (U of Pavia, 2003), I am a group leader and Associate 
 
 \
 	
-## Lab Members 
+## <u> Lab Members </u>
 
 ### Associate Research Scientists
 
@@ -66,7 +64,8 @@ Dr. Yingfei Xue is currently a postdoctoral research scientist in Dr. Giovanni F
 
 ![](images/abramov.jpg){width=25%}
 
-Dr. Alexey Abramov is a General Surgery resident in the [New York Presbyterian-Columbia](https://columbiasurgery.org/general-surgery-residency) program with an interest in cardiothoracic surgery fellowship. Currently, he is a post-doctoral research fellow in Dr. Ferrari's lab in the [Cardiothoracic Surgery Research Group](https://columbiasurgery.org/cardiothoracic-surgery-research/program-overview) and pursuing a Master's degree in the Department of Biostatistics in the Mailmans School of Public Health with a concentration in [Clinical Research Methods](https://www.publichealth.columbia.edu/academics/degrees/master-science/clinical-research-methods). In his free time, he enjoys the outdoors, hiking, skiing, and riding his road bike.
+Dr. Alexey Abramov is a General Surgery resident in the [New York Presbyterian-Columbia](https://columbiasurgery.org/general-surgery-residency) program with an interest in cardiothoracic surgery fellowship and biomedical engineering.  He graduated from [Emory University](http://college.emory.edu/main/index.html) (Atlanta, GA) and received his medical degree from [New York Medical College](https://www.nymc.edu/school-of-medicine-som/) (Valhalla, NY). Currently, he is a post-doctoral research fellow in Dr. Ferrari's lab and pursuing a Master's degree in the Department of Biostatistics in the Mailmans School of Public Health in the [Clinical Research Methods](https://www.publichealth.columbia.edu/academics/degrees/master-science/clinical-research-methods) track. 
+In his free time, he enjoys the outdoors, hiking, skiing, and riding his road bike.
 
 [Email](mailto:<aa3832@cumc.columbia.edu>)
  
@@ -144,7 +143,7 @@ Postdocs
 \
 
 
-## Collaborators
+## <u> Collaborators </u>
 
 ![](images/levy.jpg){width=25%}
 
@@ -186,6 +185,8 @@ The bicuspid aortic valve (BAV) is the most common cardiac congenital anomaly. D
 *R01HL142504*
 
 ### Walter 
+
+\
 
 ### Lara Garibeh PhD
 
