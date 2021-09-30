@@ -108,7 +108,7 @@ Dr. Alexey Abramov is a General Surgery resident in the [New York Presbyterian-C
 
 ![](images/mas.jpg){width=25%}
 
-I am a Master’s student in [Biomedical Engineering at Columbia University](https://www.bme.columbia.edu). I am from Barcelona, Spain, and I studied my undergraduate degree at [Universitat Pompeu Fabra](https://www.upf.edu/es/) where I worked in the field of biomedical electronics. Afterward, I did the last year and a half of my degree at the [Politecnico di Milano](https://www.polimi.it), where I mainly studied the field of biomechanics. My main interest lies in prosthetic heart valves and life support systems. I joined the Ferrari Lab in 2021. 
+Ms. Mar Martinez Mas is a Master’s student in [Biomedical Engineering at Columbia University](https://www.bme.columbia.edu). She is from Barcelona, Spain, and  completed her undergraduate degree at [Universitat Pompeu Fabra](https://www.upf.edu/es/) where sbe worked in the field of biomedical electronics. Afterward, she completed the last year and a half of my degree at the [Politecnico di Milano](https://www.polimi.it), where she mainly studied the field of biomechanics. Her main interest lies in prosthetic heart valves and life support systems. She joined the Ferrari Lab in 2021. 
 
 [Email](mailto:<mm5944@columbia.edu>)
 
