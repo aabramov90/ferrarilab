@@ -9,8 +9,7 @@ editor_options:
   chunk_output_type: console
 ---
 
-
-# Welcome
+\
 
 ## Our Lab
 
@@ -19,7 +18,7 @@ Welcome to the Ferrari Laboratory website, we are located at the Columbia Univer
 \
 
 
-## About Our Research
+## Our Research
 
 Coming soon
 
