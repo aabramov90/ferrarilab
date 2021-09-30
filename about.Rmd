@@ -15,17 +15,19 @@ editor_options:
 ## Primary Investigator 
 
  *Giovanni Ferrari, PhD*
- 
-* [Twitter](https://twitter.com/ferrag02)
-* [Email](mailto:<gf2375@cumc.columbia.edu>)
 
 <left>
-![](images/doctor_giovanni_ferrari.jpg)
+![](images/ferrari.jpg){width=25%}
+
 </left>
 
 First-generation graduate (U of Pavia, 2003), I am a group leader and Associate Professor (with tenure) at Columbia University, Dept. of Surgery and Biomedical Engineering. I am Scientific Director of the Cardiothoracic Research Program and Director of the Columbia Biobank for Translational Science, an applied biobank supporting translational and precision medicine initiatives. Heart valve and vascular cell physiology, cardiac mechanobiology, materials science in medical devices, and the brain-heart axis are my main research interests.
 
 </right>
+
+* [Twitter](https://twitter.com/ferrag02)
+* [Email](mailto:<gf2375@cumc.columbia.edu>)
+
 
 \
 				
@@ -44,6 +46,8 @@ First-generation graduate (U of Pavia, 2003), I am a group leader and Associate 
 
  *Yingfei Xue, PhD*\
  
+![](images/xue.JPG){width=25%}
+
 Dr. Yingfei Xue is currently a postdoctoral research scientist in Dr. Giovanni Ferrari lab at Columbia University. He obtained his PhD degree from University of Pittsburgh School of Pharmacy. His research interest is centered around cardiovascular implants including bioprosthetic valves, conduits, and patches. His research goal is to understand the mechanisms of cardiovascular implant failure and improve implant durability. He has 20 publications and served as editorial board member and reviewer for multiple journals in the fields of biomedical engineering.
 
 [Email](mailto:<yx2529@cumc.columbia.edu>)
@@ -91,6 +95,7 @@ Dr. Yingfei Xue is currently a postdoctoral research scientist in Dr. Giovanni F
 
 *Mar Martinez Mas (Columbia University)*\
 
+![](images/mas.jpg){width=25%}
 
 I am a Master’s student in Biomedical Engineering at Columbia University. I am from Barcelona, Spain, and I studied my undergraduate degree at Universitat Pompeu Fabra where I worked in the field of biomedical electronics. Afterward, I did the last year and a half of my degree at the Politecnico di Milano, where I mainly studied the field of biomechanics. My main interest lies in prosthetic heart valves and life support systems. I joined the Ferrari Lab in 2021. 
 
