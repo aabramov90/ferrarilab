@@ -43,7 +43,6 @@ editor_options:
 
 ### Implantable Biomaterials, Biomedical Engineering
 
-
 #### Glycation and Bioprosthethic Heart Valves
 
 

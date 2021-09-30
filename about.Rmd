@@ -18,6 +18,11 @@ editor_options:
 * [Twitter](https://twitter.com/ferrag02)
 * [Email](mailto:<gf2375@cumc.columbia.edu>)
 
+<left>
+![](images/doctor_giovanni_ferrari.jpg)
+</left>
+
+<right>
 Associate Professor of Surgical Sciences and Scientific Director of the Cardiothoracic Research Program at Columbia University. He has over 13 years experience in the field of cell biology and cardiovascular medicine. After his postdoctoral work at New York University he became faculty and group leader at University of Pennsylvania, first as Assistant, and later, as Associate Professor. At UPenn he launched the Penn Cardiac Bioregistry for the division of cardiovascular surgery. In 2017 he relocated his program to Columbia. Currently he is directing the Columbia Biobank for Translational Studies (CBTS), an applied human biobank and clinical database supporting translational and precision medicine initiatives. Dr. Ferrari maintains his role as principal investigator of the Penn Cardiac Bioregistry and Adjunct Associate Professor at UPenn.
 
 Giovanni Ferrari, PhD\
@@ -28,6 +33,8 @@ Director, Columbia Biobank for Translational Science (CBTS)\
 Black Building – 650 W. 168th Street, 4th Floor Suite 4-443\
 New York, NY 10032\
 Office: (212) 305-8615\
+
+</right>
 
 \
 				
