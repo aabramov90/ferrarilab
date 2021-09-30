@@ -1,0 +1,7 @@
+---
+title: "Ferrari Lab Website"
+---
+
+### Lab Website
+
+Projects, goals.
