@@ -1,7 +1,46 @@
 ---
-title: "Ferrari Lab Website"
+title: "Ferrari Lab"
+subtitle: "Columbia University Cardiothoracic Surgery Research Program"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+editor_options: 
+  chunk_output_type: console
 ---
 
-### Lab Website
+# Home
 
-Projects, goals.
+## About Us
+
+Lab information here, goals, projects.
+
+## News
+
+## Contacts	
+	Giovanni Ferrari PhD
+	Address 630W 168th Street 17.413 New York, NY - 10032
+	Email: gf2375@cumc.columbia.edu
+	
+## Twitter 
+https://twitter.com/ferrag02
+
+
+## Photos 
+
+<center>
+
+</center>
+
+
+## Internal Links
+### Dashboard
+
+[About Us](about.html)
+
+
+## External Links
+
+### Columbia University Website
+
+* [Ferrari Lab – Columbia Biobank for Translational Science](https://columbiasurgery.org/research/ferrari-lab)
