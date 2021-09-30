@@ -1,6 +1,6 @@
 ---
 title: "Our Projects and Publications"
-subtitle: "*Columbia University Cardiothoracic Surgery Research Program*"
+subtitle: "*Columbia University Irving Medical Center Cardiothoracic Surgery Research Program*"
 output:   
     flexdashboard::flex_dashboard:
       vertical_layout: scroll

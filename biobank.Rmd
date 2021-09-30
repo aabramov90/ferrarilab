@@ -1,6 +1,6 @@
 ---
 title: "Biobank"
-subtitle: "*Columbia University Cardiothoracic Surgery Research Program*"
+subtitle: "*Columbia University Irving Medical Center Cardiothoracic Surgery Research Program*"
 output: 
   html_document:
     theme: journal
