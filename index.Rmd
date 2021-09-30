@@ -11,7 +11,7 @@ editor_options:
 
 # Home
 
-Welcome to the *Ferrari Laboratory* website, we are located at the Columbia University Irving Medical Center in New York City, New York.
+Welcome to the Ferrari Laboratory website, we are located at the Columbia University Irving Medical Center in New York City, New York.
 
 \
 
