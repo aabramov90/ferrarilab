@@ -60,6 +60,14 @@ Dr. Yingfei Xue is currently a postdoctoral research scientist in Dr. Giovanni F
 ### Surgical Residents			
 
 *Alexey Abramov, MD*
+
+![](images/abramov.jpg){width=25%}
+
+I am a General Surgery resident in the [New York Presbyterian-Columbia](https://columbiasurgery.org/general-surgery-residency) program with an interest a fellowship in cardiothoracic surgery. Currently, I am a post-doctoral research fellow in Dr. Ferrari's lab in the [Cardiothoracic Surgery Research Group](https://columbiasurgery.org/cardiothoracic-surgery-research/program-overview) and pursuing a Master's of Science degree in the Department of Biostatistics in the Mailmans School of Public Health with a concentration in [Clinical Research Methods](https://www.publichealth.columbia.edu/academics/degrees/master-science/clinical-research-methods).  
+
+In my free time, I enjoy the outdoors, hiking, skiing, and riding my road bike.
+
+[Email](mailto:<aa3832@cumc.columbia.edu>)
  
 *Dov Levine, MD*
 
@@ -84,6 +92,8 @@ Dr. Yingfei Xue is currently a postdoctoral research scientist in Dr. Giovanni F
 ### Medical Students
 
  *Nicolo Vitale (U of Milan)*
+ 
+ ![](images/niko.jpg){width=25%}
  
  *Eduardo (U of Bologna)*
  
