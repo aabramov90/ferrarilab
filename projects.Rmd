@@ -1,6 +1,6 @@
 ---
-title: "About Us"
-subtitle: "Columbia University Cardiothoracic Surgery Research Program"
+title: "Our Projects"
+subtitle: "*Columbia University Cardiothoracic Surgery Research Program*"
 output: 
   html_document:
     toc: true
@@ -9,76 +9,61 @@ editor_options:
   chunk_output_type: console
 ---
 
-# Our Team
-
-## Primary Investigator 
-
- *Giovanni Ferrari, PhD*
-
-Associate Professor of Surgical Sciences and Scientific Director of the Cardiothoracic Research Program at Columbia University. He has over 13 years experience in the field of cell biology and cardiovascular medicine. After his postdoctoral work at New York University he became faculty and group leader at University of Pennsylvania, first as Assistant, and later, as Associate Professor. At UPenn he launched the Penn Cardiac Bioregistry for the division of cardiovascular surgery. In 2017 he relocated his program to Columbia. Currently he is directing the Columbia Biobank for Translational Studies (CBTS), an applied human biobank and clinical database supporting translational and precision medicine initiatives. Dr. Ferrari maintains his role as principal investigator of the Penn Cardiac Bioregistry and Adjunct Associate Professor at UPenn.
-
 \
-				
-### Associate Research Scientists
 
- *Esti Castillero, PhD*
-
- *Chiara Camillo, PhD*
+# Our Projects and Publications
 
 \
 
-### Postdoctoral Research Fellows	
+## Mitral Valve
 
- *Yingfei Xue, PhD*
+#### Ischemic MR
 
- *Antonio Frasca, PhD*
-
-\
-
-### Surgical Residents			
-
- *Alexey Abramov, MD*
-
- *Dov Levine, MD*
-
- *Clinton Erwin, MD*
-
- *Michael Simpson, MD*
+#### MMVD and 5HT
 
 \
 
-### Biobank			
+## Aortic Valve
 
- *Vivian Moreno*
-
-\
-
-### Lab Manager
-
- Mangesh Kurade
+#### AVSc
 
 \
 
-### Medical Students
+## Aortic Aneurysm and Dissection
 
- Nicolo (U of Milan)
- 
- Eduardo (U of Bologna)
- 
- Ervin (Morehouse School of Medicine)
+#### AGE
 
 \
 
-### Biomedical Engineering Students		
+### Myocardial Remodeling and Fibrosis
 
-Mar Mas Martinez (Columbia U)
-
-\
-
-### *Past Alumni*
-
-Residents:
+*Esti Castillero, PhD*
 
 \
 
-Postdocs:
+### Implantable Biomaterials, Biomedical Engineering
+
+
+#### Glycation and Bioprosthethic Heart Valves
+
+
+#### Pediatric Implantable devices
+
+*Valves*
+/
+*Conduits*
+
+#### Type II Diabetes Mellitus, Metabolic Syndrome
+
+\
+
+### COVID-19
+
+\
+
+## Collaborations:
+
+#### Levy Lab (UPenn)
+#### Kalfa (Columbia University)
+#### Walter 
+#### Sacks

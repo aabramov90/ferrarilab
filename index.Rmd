@@ -18,7 +18,7 @@ Welcome to the Ferrari Laboratory website, we are located at the Columbia Univer
 
 ## About Us
 
-The primnary focus of our laboratory is 
+The primary focus of our laboratory research is 
 
 \
 
@@ -27,14 +27,7 @@ The primnary focus of our laboratory is
 
 \
 
-
-## Contacts	
-	Giovanni Ferrari PhD
-	Address 630W 168th Street 17.413 New York, NY - 10032
-	Email: gf2375@cumc.columbia.edu
-	
-## Twitter 
-https://twitter.com/ferrag02
+## Twitter
 
 \
 
@@ -50,20 +43,17 @@ https://twitter.com/ferrag02
 
 
 
-## Internal Links
+##  Links
 
-### Dashboard
+### Internal Links
 
-[About Us](about.html)
+[About Us](about.html)\
+[Projects and Publications](projects.html)
 
 
 \
 
-
-
-## External Links
-
-### Columbia University Website
+### External Links
 
 * [Ferrari Lab – Columbia Biobank for Translational Science](https://columbiasurgery.org/research/ferrari-lab)
 
