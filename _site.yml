@@ -1,15 +1,15 @@
 name: "Ferrari Lab Website"
 output_dir: "."
 navbar:
-  title: "Home"
+  title: "Ferrari Lab Website"
   right:
-    - text: "About"
+    - text: "About Us"
       href: about.html
-    - text: "Projects"
+    - text: "Projects and Publications"
       href: projects.html
+    - icon: fa-clinic-medical fa-lg
+      href: https://columbiasurgery.org/heart/
     - icon: fa-envelope fa-lg
       href: mailto:<gf2375@cumc.columbia.edu>
-    - icon: fa-github fa-lg
-      href: http://github.com/<YOUR_GH_NAME>/
 output:
   html_document
