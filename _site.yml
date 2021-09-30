@@ -7,7 +7,7 @@ navbar:
       href: about.html
     - text: "Projects and Publications"
       href: projects.html
-    - icon: fa-clinic-medical fa-lg
+    - icon: fa-user-md fa-lg
       href: https://columbiasurgery.org/heart/
     - icon: fa-envelope fa-lg
       href: mailto:<gf2375@cumc.columbia.edu>

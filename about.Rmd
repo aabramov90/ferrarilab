@@ -54,12 +54,12 @@ Office: (212) 305-8615\
 ### Surgical Residents			
 
  *Alexey Abramov, MD*
+ 
+*Dov Levine, MD*
 
- *Dov Levine, MD*
+*Clinton Erwin, MD*
 
- *Clinton Erwin, MD*
-
- *Michael Simpson, MD*
+*Michael Simpson, MD*
 
 \
 
@@ -71,30 +71,27 @@ Office: (212) 305-8615\
 
 ### Lab Manager
 
- Mangesh Kurade
+ *Mangesh Kurade*
 
 \
 
 ### Medical Students
 
- Nicolo (U of Milan)
+ *Nicolo (U of Milan)*
  
- Eduardo (U of Bologna)
+ *Eduardo (U of Bologna)*
  
- Ervin (Morehouse School of Medicine)
+ *Ervin (Morehouse School of Medicine)*
 
 \
 
 ### Biomedical Engineering Students		
 
-Mar Mas Martinez (Columbia U)
+*Mar Mas Martinez (Columbia University)*
 
 \
 
 ### Alumni
 
-Residents:
-
-\
-
-Postdocs:
+Residents\
+Postdocs
