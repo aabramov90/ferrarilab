@@ -16,54 +16,84 @@ editor_options:
 
 \
 
-## Mitral Valve
+## Myxomatous Mitral Valve Disease
 
-#### Ischemic MR
+Degenerative mitral regurgitation (MR) due to myxomatous valve disease affects millions. The only treatment is either valve repair or replacement. This project will advance understanding of the role of the neurotransmitter, serotonin (5HT) in MR. Heart valve disease has been associated with both 5HT-secreting carcinoid tumors and medications, such as the diet drug, Dexfenfluoramine. We will investigate the hypothesis that 5HT-mechanisms involving the serotonin transporter (SERT), and 5HT receptor (HTR) signaling, both in platelets and mitral valve interstitial cells (MVIC) of bone marrow origin, contribute to the pathophysiology MR, and represent promising therapeutic targets. It is expected that the mechanistic results of these studies will lead to therapeutic directions for MR that target platelet-derived 5HT and leverage a personalized approach using BOEC to model the pathophysiology.
 
-#### MMVD and 5HT
+*R01HL131872 (Ferrari G - Levy RJ)*
 
-\
-
-## Aortic Valve
-
-#### AVSc
+## Ischemic Mitral Regurgitation\
 
 \
 
-## Aortic Aneurysm and Dissection
 
-#### AGE
-
-\
-
-### Myocardial Remodeling and Fibrosis
-
-*Esti Castillero, PhD*
+## Calcific Aortic Valve Disease\
 
 \
 
-### Implantable Biomaterials, Biomedical Engineering
+## Aortic Aneurysm and Dissection\
 
-#### Glycation and Bioprosthethic Heart Valves
+Bicuspid Aortic Valve (BAV) syndrome is associated with frequent and premature occurrence of calcific aortic stenosis (AS) and thoracic aortic aneurysms (TAA), with 30-50% of BAV patients requiring surgery in their lifetime for AS, TAA, or both. It is estimated that 1.4% of the population is born with a BAV, making it the most common congenital heart defect in the US.  Eccentric flow dynamics, endothelial dysfunction, and genetic predisposition are key elements impacting the susceptibility of BAV patients to adverse aortic events. Dissection and rupture are mechanical failures of the aortic wall that occurs when the tensile limit of the aortic tissue is overwhelmed. To prevent these events, the ascending aorta is preventively replaced in high-risk patients. The major clinical obstacles hampering the decisions of whether replace the ascending aorta of BAV patients are the absence, in the current guidelines, of any tools informing on the structural integrity of the aortic wall independently of metric measurements and of any non-invasive risk-assessment tools. Here we tested the mechanistic hypothesis that mitigation of glycoxidation reactions revert AGE-mediated paracellular endothelial hyperpermeability and reduce the accumulation of glycol-oxidation products in the ascending aorta of BAV patients. 
 
 
-#### Pediatric Implantable devices
+## Biomedical Engineering
 
-*Valves*
-/
-*Conduits*
+### Glycation-mediated mechanisms of Bioprosthetic Heart Valve Failure\
 
-#### Type II Diabetes Mellitus, Metabolic Syndrome
+Heart valve disease at this time can only be treated surgically, with either valve replacement or repair.  Bioprosthetic heart valves (BHV), fabricated from glutaraldehyde fixed heterografts, such as bovine pericardium (BP) or porcine aortic valves (PAV), are widely used in both cardiac surgery and in transcatheter valve replacements. Despite outstanding short-term outcomes, BHV dysfunction due to structural valve leaflet degeneration (SVD) develops over time, frequently necessitating device replacement. Calcification is observed in the majority of SVD cases; however, 25% or more SVD cases are not associated with calcification. Recent work from our group demonstrated that BHV are susceptible to non-calcification induced failure mechanisms, involving the formation of unique oxidized amino acids (OxAA) in BHV, such as the crosslink, di-tyrosine (di-Tyr). Feasibility studies also recently documented in BHV explant samples the presence of advanced glycation end products (AGE). The contributions of both AGE and OxAA to SVD pathophysiology has not been previously investigated by our group or others. We are studying the hypotheses that the accumulation of AGE in BHV leaflets together with the receptor for AGE (RAGE) mediated inflammatory response, and OxAA modification of structural proteins contribute to BHV SVD. These mechanisms also are hypothesized to interact with BHV calcification and co-morbidities, such as diabetes and coronary artery disease to enhance SVD.
 
 \
 
-### COVID-19
+### Structural Degeneration of Implantable Biomaterials in Pediatric Patients\
+
+Despite legislation and federal initiatives, such as the Pediatric Device Consortia Grants Program, intended to facilitate pediatric medical device development, innovation for pediatric cardiac patients continues to lag behind the advances made for adult devices, making children requiring reconstructive heart surgery an underserved population. All implantable biomaterials (glutaraldehyde bovine pericardium, xenograft valves and conduits, cryopreserved allografts, autologous pericardium, and collagen bioscaffolds) as well as some artificial polymers are subjected to structural degeneration driven by calcification (via passive calcium deposition and absorption of calcium-binding proteins) and – as discovered by our group – by glyco-oxidation, which via permanent incorporation of glycated protein and cross-links formation, alters the architecture and mechanical proprieties of biomaterials. 
+
+This application has two overarching goals: to understand the mechanisms of accelerate structural degeneration of cardiac patches, valved conduits, and bioprosthetic heart valves in children and to test mitigation strategies to extend the lifespan of these devices in vitro and in vivo by using juvenile animal models. Clinically, the goal is to reduce the need for multiple cardiac re-operations in pediatric patients by mitigating the mechanisms at the base of the accelerated failure.
 
 \
 
-## Collaborations:
+### Sexual Dimorphism and Durability of Implanted Biomaterials in Patients with Type 2 Diabetes Mellitus\
 
-#### Levy Lab (UPenn)
-#### Kalfa (Columbia University)
+Type 2 Diabetes mellitus (T2DM) is a well-known risk factor for heart valve disease, little is known about the mechanisms of accelerated failure of Bioprosthetic Heart Valve in this population. Using a next-generation proteomic approach on an established biobank of retrieved failed Bioprosthetic Heart Valve (BHV) explants and a patented precision medicine susceptibility assay using patient-derived serum we will assess how sexual dimorphism impact the durability of bioprosthetic heart valves in T2DM patients. Mitigation strategies aimed at reducing glycoxidation reactions will be tested to clinically graded valves chemically modified to improve the Bioprosthetic Valve durability of T2DM patients. 
+
+*Russell Berrie Foundation Pre-translational Diabetes Research Award*
+
+\
+
+### Mechanisms of Cardiac Remodeling in COVID-19 Patients
+
+As a result of the COVID-19 pandemic, it has been shown that patients with pre-existing heart disease are likely to have more severe COVID-19 symptoms than those without pre-existing heart disease. We seek to test the hypothesis that SARS-CoV-2 induces cardiac injury by decreasing ACE2-mediated cardioprotection, and exacerbating AGE/RAGE-mediated cell signaling mechanisms. The 2 major things we seek to address are if this cell signaling pathway induces cardiac injury, and if circulating RAGE signaling markers be used as biomarkers of cardiovascular injury during acute COVID infection, and after recovery from infection. 
+
+*John Jones Surgical Society Fellowship*
+
+## Collaborations:\
+
+
+### Robert J. Levy, MD
+Levy is the director of Cardiology Research, and also serves as program director of the Cardiology National Heart, Lung, and Blood Institute (NHLBI) Research Training Grant. 
+
+His research interests are the pathophysiology of biomaterials used in medicine, basic mechanisms and novel therapies for heart valve disease, arterial angioplasty, local drug delivery, and nanomedicine. He also has experience over three decades in medical device development.
+
+*R01HL131872*
+
+\
+
+### David Kalfa, MD, PhD\
+Florence Irving Assistant Professor of Surgery\
+Section of Pediatric & Congenital Cardiac Surgery\
+Director, Pediatric Heart Valve Center\
+Surgical Director, Initiative for Pediatric Cardiac Innovation\
+Columbia University College of Physicians and Surgeons\
+New York-Presbyterian Morgan Stanley Children's Hospital\
+
+\
+
+#### Expandable Polymeric-valved Conduit to Repair Congenital Heart Disease
+
+The proposed research is relevant to public health because a biostable polymeric valved conduit that can be implanted surgically to reconstruct the right ventricular outflow tract in neonates and infants and then expanded by successive transcatheter procedures to reach the adult size, would revolutionize how we treat children with heart valve diseases. Such a new generation of valved conduit would decrease the number of open-heart surgeries and reoperations, decrease the mortality, complications and healthcare costs related to these procedures and increase the life expectancy and quality of life of these patients.
+
+*R01HL155381*
+
+
 #### Walter 
 #### Sacks
