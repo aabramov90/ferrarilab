@@ -7,6 +7,10 @@ navbar:
       href: about.html
     - text: "Projects and Publications"
       href: projects.html
+    - text: "Biobank Inquiries"
+      href: biobank.html
+    - text: "Research Training Program"
+      href: program.html
     - icon: fa-user-md fa-lg
       href: https://columbiasurgery.org/heart/
     - icon: fa-envelope fa-lg
