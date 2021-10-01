@@ -126,3 +126,48 @@ body {
   
   
 }
+
+   /* TOC links */
+
+.list-group-item {
+    color: #7b8a8b;
+    font-size: 16px;
+}
+
+.list-group-item.active {
+    color: #2c3e50;
+    background-color: white;
+    border: none;
+}
+
+.list-group-item:hover, 
+.list-group-item.active:hover {
+    color: #131b23;
+    background-color: white;
+}
+
+
+/*----------------NAVBAR ---------------*/
+
+.distill-site-header{ 
+  padding: 40px 0px;
+}
+/* Navbar Links when hovered*/
+a.navbar-brand:hover {
+  color: #ffffffab !important;
+  background-color: #141c25;
+}
+
+/* No navbar links on mobile except for the title and the nav-toggle */
+
+@media screen and (max-width: 768px) {
+  .distill-site-header a, .distill-site-header .nav-dropdown {
+    display: none;
+  }
+  
+  .distill-site-header a.title, .distill-site-header a.nav-toggle {
+    display: inline-block;
+    padding: 10px 0px;
+    margin: 10px 14px; 
+  }
+}
