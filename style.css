@@ -106,9 +106,8 @@ body {
   position: -webkit-sticky;
   position: sticky; 
   top: 120px; /*Controls where TOC stops when sticky */
-  width: 100%;
+  width: 100% !important;
 }
-
 
 /* NO TOC on mobile */
 @media screen and (max-width: 767px){
