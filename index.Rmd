@@ -1,6 +1,4 @@
 ---
-title: "Ferrari Lab"
-subtitle: "*Columbia University Irving Medical Center Cardiothoracic Surgery Research Program*"
 output: 
   html_document:
     toc: true
