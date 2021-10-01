@@ -2,7 +2,7 @@ name: "Ferrari Lab @ Columbia University"
 output_dir: "."
 theme: journal
 navbar:
-  title: "Ferrari Lab Website"
+  title: "Ferrari Lab @ Columbia"
   right:
     - text: "About Us"
       href: about.html
