@@ -73,7 +73,7 @@ body {
 .top-text {
   position: relative;
   font-size: 34px;
-  padding-bottom: 0.5em
+  padding-bottom: 0.5em;
   text-transform: uppercase;
   text-align: center;
   display: block; /* Change to `display: none` for no top text */
@@ -106,7 +106,7 @@ body {
   position: -webkit-sticky;
   position: sticky; 
   top: 120px; /*Controls where TOC stops when sticky */
-  width: 100% !important;
+  width: 100%;
 }
 
 
