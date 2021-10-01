@@ -17,6 +17,18 @@ editor_options:
 
 Degenerative mitral regurgitation (MR) due to myxomatous valve disease affects millions. The only treatment is either valve repair or replacement. This project will advance understanding of the role of the neurotransmitter, serotonin (5HT) in MR. Heart valve disease has been associated with both 5HT-secreting carcinoid tumors and medications, such as the diet drug, Dexfenfluoramine. We will investigate the hypothesis that 5HT-mechanisms involving the serotonin transporter (SERT), and 5HT receptor (HTR) signaling, both in platelets and mitral valve interstitial cells (MVIC) of bone marrow origin, contribute to the pathophysiology MR, and represent promising therapeutic targets. It is expected that the mechanistic results of these studies will lead to therapeutic directions for MR that target platelet-derived 5HT and leverage a personalized approach using BOEC to model the pathophysiology.
 
+
+\
+<center>
+
+![](images/mitral.jpg){width=75%}
+
+\
+
+</center>
+
+\
+
 *Funding Source*\
 *NIH R01HL131872 (Ferrari G - Levy RJ)*
 
