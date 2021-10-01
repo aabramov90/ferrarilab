@@ -54,13 +54,16 @@ Coming soon
 ### Ferrari Lab Internal Links
 
 [About Us](about.html)\
+Meet our team
 
 [Projects and Publications](projects.html)\
+Learn about our ongoing projects and publications
 
 [Biobank Inquiries](biobank.html)\
+Resources for accessing our biobank
 
 [Research Program for Residents](program.html)\
-
+Integrated program for surgical residents interested in a career in translational science 
 
 \
 
