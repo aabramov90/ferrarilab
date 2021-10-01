@@ -10,8 +10,7 @@ editor_options:
   chunk_output_type: console
 ---
 
-# Biobank (CBTS)
-
+# Introduction
 \
 
 The Columbia Biobank for Translational Science – CBTS is an applied biobank supporting translational and precision medicine initiatives for adult and pediatric cardiothoracic research.\
@@ -22,6 +21,6 @@ Established in 2017 it included specimens collected from patients undergoing car
 
 Our Biobank strongly collaborate with the [Columbia University Biobank and The Irving Institute for Clinical and Translational Research](https://www.irvinginstitute.columbia.edu).
 
-##	Inquiry Form
+#	Inquiry Form
 
 Coming soon.
