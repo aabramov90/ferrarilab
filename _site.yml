@@ -1,6 +1,6 @@
 name: "Ferrari Lab Website"
 output_dir: "."
-theme: cosmo
+theme: journal
 navbar:
   title: "Ferrari Lab Website"
   right:
@@ -18,5 +18,5 @@ navbar:
       href: mailto:<gf2375@cumc.columbia.edu>
 output:
   html_document:
-    theme: cosmo
+    theme: journal
     code_folding: hide
