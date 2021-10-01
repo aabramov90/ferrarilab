@@ -1,6 +1,6 @@
 name: "Ferrari Lab Website"
 output_dir: "."
-theme: journal
+theme: cosmo
 navbar:
   title: "Ferrari Lab Website"
   right:
