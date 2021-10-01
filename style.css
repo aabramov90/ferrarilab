@@ -154,7 +154,7 @@ body {
 }
 /* Navbar Links when hovered*/
 a.navbar-brand:hover {
-  color: #ffffffab !important;
+  color: #ffffffab;
   background-color: #141c25;
 }
 
