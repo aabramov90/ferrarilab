@@ -64,8 +64,7 @@ Dr. Yingfei Xue is currently a postdoctoral research scientist in Dr. Giovanni F
 
 ![](images/abramov.jpg){width=25%}
 
-Dr. Alexey Abramov is a General Surgery resident in the [New York Presbyterian-Columbia](https://columbiasurgery.org/general-surgery-residency) program with an interest in cardiothoracic surgery fellowship and biomedical engineering.  He graduated from [Emory University](http://college.emory.edu/main/index.html) (Atlanta, GA) and received his medical degree from [New York Medical College](https://www.nymc.edu/school-of-medicine-som/) (Valhalla, NY). Currently, he is a post-doctoral research fellow in Dr. Ferrari's lab and pursuing a Master's degree in the Department of Biostatistics in the Mailmans School of Public Health in the [Clinical Research Methods](https://www.publichealth.columbia.edu/academics/degrees/master-science/clinical-research-methods) track. 
-In his free time, he enjoys the outdoors, hiking, skiing, and riding his road bike.
+Dr. Alexey Abramov is a General Surgery resident in the [New York Presbyterian-Columbia](https://columbiasurgery.org/general-surgery-residency) program with an interest in cardiothoracic surgery fellowship and biomedical engineering.  He graduated from [Emory University](http://college.emory.edu/main/index.html) (Atlanta, GA) and received his medical degree from [New York Medical College](https://www.nymc.edu/school-of-medicine-som/) (Valhalla, NY). Currently, Alexey is a post-doctoral research fellow in Dr. Ferrari's lab studying the underlying mechanisms of structural degeneration of bioprosthetic heart valves with next-generation proteomics. He is also pursuing a Master's degree in the Department of Biostatistics in the Mailmans School of Public Health in the [Clinical Research Methods](https://www.publichealth.columbia.edu/academics/degrees/master-science/clinical-research-methods) track. In his free time, he enjoys the outdoors, hiking, skiing, and riding his road bike.
 
 [Email](mailto:<aa3832@cumc.columbia.edu>)
  
@@ -73,8 +72,12 @@ In his free time, he enjoys the outdoors, hiking, skiing, and riding his road bi
 
 *Clinton Erwin, MD*
 
-
 ![](images/clint.jpg){width=25%}
+
+Clinton is a resident in  Integrated Cardiothoracic surgery at New York Presbyterian-Columbia. He obtained his MD from University of Alabama, Birmingham, where he developed an interest in cardiac surgery. /
+Now having completed 3 years of residency, he is currently studying the mechanisms of cardiovascular damage related to COVID-19, along with several clinical projects in adult cardiac surgery.   
+
+[Email](mailto:<we2153@cumc.columbia.edu>)
 
 *Michael Simpson, MD*
 
