@@ -5,6 +5,8 @@ output:
   html_document:
     toc: true
     toc_float: true
+    includes:
+      in_header: hero-image.html
 editor_options: 
   chunk_output_type: console
 ---
