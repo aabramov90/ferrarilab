@@ -12,9 +12,11 @@ editor_options:
 
 # Our Team
 
-## <u>Primary Investigator</u>
+## <u>Primary Investigator</u> 
 
- *Giovanni Ferrari, PhD*
+\
+
+### Giovanni Ferrari, PhD
 
 
 ![](images/ferrari.jpg){width=25%}
@@ -29,9 +31,9 @@ First-generation graduate (U of Pavia, 2003), I am a group leader and Associate 
 
 \
 	
-## <u> Lab Members </u>
+### <u> Lab Members </u>
 
-### Associate Research Scientists
+#### Associate Research Scientists
 
 *Esti Castillero, PhD*
 
@@ -50,7 +52,7 @@ I am a Biomedical Researcher with a PhD in Physiology and Endocrinology. My rese
 
 \
 
-### Postdoctoral Research Fellows	
+#### Postdoctoral Research Fellows	
 
  *Yingfei Xue, PhD*\
  
@@ -66,7 +68,7 @@ Dr. Yingfei Xue is currently a postdoctoral research scientist in Dr. Giovanni F
 
 \
 
-### Surgical Residents			
+#### Surgical Residents			
 
 *Alexey Abramov, MD*
 
@@ -95,7 +97,7 @@ Michael is a resident in the Integrated Cardiothoracic Surgery residency program
 
 \
 
-### Biobank			
+#### Biobank			
 
  *Vivian Moreno*
 
@@ -107,13 +109,13 @@ Vivian Moreno is the Clinical Research Coordinator for the Ferrari Lab. She comp
 
 \
 
-### Lab Manager
+#### Lab Manager
 
  *Mangesh Kurade*
 
 \
 
-### Medical Students
+#### Medical Students
 
  *Nicolo Vitale (U of Milan)*
  
@@ -121,24 +123,24 @@ Vivian Moreno is the Clinical Research Coordinator for the Ferrari Lab. She comp
  
  *Eduardo (U of Bologna)*
  
- *Ervin (Morehouse School of Medicine)*
+ *Evan (Morehouse School of Medicine)*
 
 \
 
-### Biomedical Engineering Students		
+#### Biomedical Engineering Students		
 
 *Mar Martinez Mas (Columbia University)*\
 
 ![](images/mas.jpg){width=25%}
 
-Mar Martinez Mas is a Master’s student in [Biomedical Engineering at Columbia University](https://www.bme.columbia.edu). She is from Barcelona, Spain, and completed her undergraduate degree at [Universitat Pompeu Fabra](https://www.upf.edu/es/) (Barcelona, Spain) where she worked in the field of biomedical electronics. Afterward, she completed the last year and a half of her degree at the [Politecnico di Milano](https://www.polimi.it) (Milan, Italy), where she mainly studied the field of biomechanics. Her main interest lies in prosthetic heart valves and life support systems. She joined the Ferrari Lab in 2021.
+Mar Martinez Mas is a Master’s student in [Biomedical Engineering at Columbia University](https://www.bme.columbia.edu). She is from Barcelona, Spain, and completed her undergraduate degree at [Universitat Pompeu Fabra](https://www.upf.edu/es/) (Barcelona, Spain) where she worked in the field of biomedical electronics. Afterward, she completed the last year and a half of her degree at the [Politecnico di Milano](https://www.polimi.it) (Milan, Italy), where she mainly studied the field of biomechanics. Her main interest lies in prosthetic heart valves and life support systems. She joined the Ferrari Lab in 2021 and is studying the mass and tissue thickening of cardiac valvular bioprostheses under different conditions.
 
 [Email](mailto:<mm5944@columbia.edu>)
 
 
 \
 
-### Chief Vision Officer 
+#### Chief Vision Officer 
 
 *Churro*
 
@@ -148,7 +150,7 @@ Mar Martinez Mas is a Master’s student in [Biomedical Engineering at Columbia 
 2 years old Irish-Doodle. Strong interest in any type of food.
 Life's not ruff when I am around. Woof
 
-### Alumni
+#### Alumni
 
 Residents
 
@@ -162,10 +164,14 @@ Postdocs
 
 ![](images/levy.jpg){width=25%}
 
-### Robert J. Levy, MD
+### Robert J. Levy, MD\
+*Children's Hospital of Philadelphia*\
+
 Levy is the director of Cardiology Research, and also serves as program director of the Cardiology National Heart, Lung, and Blood Institute (NHLBI) Research Training Grant. 
 
 His research interests are the pathophysiology of biomaterials used in medicine, basic mechanisms and novel therapies for heart valve disease, arterial angioplasty, local drug delivery, and nanomedicine. He also has experience over three decades in medical device development.
+
+\
 
 *R01HL131872*
 
@@ -180,29 +186,80 @@ Section of Pediatric & Congenital Cardiac Surgery\
 Director, Pediatric Heart Valve Center\
 Surgical Director, Initiative for Pediatric Cardiac Innovation\
 Columbia University College of Physicians and Surgeons\
-New York-Presbyterian Morgan Stanley Children's Hospital\
 
-#### Expandable Polymeric-valved Conduit to Repair Congenital Heart Disease
+\
+
+<u> Expandable Polymeric-valved Conduit to Repair Congenital Heart Disease </u>
 
 The proposed research is relevant to public health because a biostable polymeric valved conduit that can be implanted surgically to reconstruct the right ventricular outflow tract in neonates and infants and then expanded by successive transcatheter procedures to reach the adult size, would revolutionize how we treat children with heart valve diseases. Such a new generation of valved conduit would decrease the number of open-heart surgeries and reoperations, decrease the mortality, complications and healthcare costs related to these procedures and increase the life expectancy and quality of life of these patients.
+
+\
 
 *R01HL155381*
 
 \
 
 
-### Micheal S Sacks PhD
+### Micheal S Sacks PhD\
+
+*University of Texas at Austin*
+
 
 ![](images/sacks.jpg){width=25%}
 
-The bicuspid aortic valve (BAV) is the most common cardiac congenital anomaly. Due to the widespread availability and routine use of screening echocardiography, development of clinical methods for the identification of asymptomatic young patients with BAV is now realistic. We thus plan to develop sensitive, clinically derivable functional indices that will yield clinically relevant patient- specific strategies for identifying BAV patients at high risk.
-
-*R01HL142504*
-
-### Walter 
+The bicuspid aortic valve (BAV) is the most common cardiac congenital anomaly. Due to the widespread availability and routine use of screening echocardiography, development of clinical methods for the identification of asymptomatic young patients with BAV is now realistic. We thus plan to develop sensitive, clinically derivable functional indices that will yield clinically relevant patient- specific strategies for identifying BAV patients at high risk.\
 
 \
 
-### Lara Garibeh PhD
+*R01HL142504*
+
+[Lab Website](https://wccms.oden.utexas.edu)
+
+\
+
+### Lara Garibeh PhD\
+
+*University of Ottawa Heart Institute*
+
+*Canadian Institute of Research and Health (CIHR) Fellowship (2021-2023)*\
+
+
+![](images/Lara-Gharibeh.jpg){width=25%}
+
+Identification of Molecular Pathways that Protect Against Atherosclerosis
+Coronary artery disease (CAD) is one of the leading causes of cardiovascular death worldwide. Current treatments for CAD include lifestyle modifications and medical therapies to reduce its risk factors. When these methods fail, more invasive interventions, such as placement of a stent to restore blood flow or performance of a coronary artery bypass graft surgery, are used. This latter procedure aims at bypassing the blocked area using either veins or arteries. The use of arterial grafts is associated with a better long-term patency and a reduced rate of progression of atherosclerosis when compared to vein grafts. Yet, the exact molecular mechanisms by which arteries are protected from disease progression are not well understood. This study aims to identify the underlying mechanisms that render arteries resistant to atherosclerosis.\
+
+[LinkedIn](https://www.linkedin.com/in/lara-gharibeh/)
+
+\
+
+### Juan B Grau MD\
+
+*The Valley Hospital *
+
+![](images/grau.jpg){width=25%}
+
+Dr. Grau's work blends clinical knowledge and expertise with the tools of basic science to find new approaches to clinically relevant problems. He serves as a reviewer for the Annals of Thoracic Surgery, Journal of the American Heart Association, Circulation, and the British Heart Foundation, among others.\
+
+
+\
+
+
+
+### Walter R. Witschey, PhD\
+
+*University of Pennsylvania*
+Associate Professor of Radiology\
+Director of the Advanced Cardiovascular Imaging Lab at the University of Pennsylvania\
+
+
+![](images/witschey_walter.jpg){width=25%}
+
+
+Theoretical and applied advanced imaging, especially magnetic resonance imaging and quantitative cardiovascular imaging.
+
+[Lab Website](https://www.med.upenn.edu/corlab/)
+
+\
 
 
