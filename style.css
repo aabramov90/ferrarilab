@@ -21,6 +21,11 @@ body {
   background-repeat: no-repeat;
 }
 
+#toc:hover #full{
+  display: block; /* Show it on hover */
+}
+
+
 /*----------------ADDING WHITE SPACE-------------*/
 
 .title {
