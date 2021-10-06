@@ -1,4 +1,4 @@
-name: "Ferrari Lab @ Columbia University"
+name: "Ferrari Lab at Columbia University"
 output_dir: "."
 theme: journal
 navbar:
@@ -10,11 +10,12 @@ navbar:
       href: projects.html
     - text: "Biobank"
       href: biobank.html
+
     - text: "Research Training Program"
       href: program.html
     - icon: fa-user-md fa-lg
       href: https://columbiasurgery.org/heart/
-    - icon: fa-envelope fa-lg
+    - icon: fa-telegram fa-lg
       href: mailto:<gf2375@cumc.columbia.edu>
 output:
   html_document:
