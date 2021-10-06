@@ -30,7 +30,10 @@ Degenerative mitral regurgitation (MR) due to myxomatous valve disease affects m
 \
 
 *Funding Source*\
-*NIH R01HL131872 (Ferrari G - Levy RJ)*
+*NIH R01HL131872 (Ferrari G - Levy RJ)*\
+[NIH Reporter](https://reporter.nih.gov/search/ZaoPhLvNK0GqfjFCGu3xvw/project-details/10130913)
+
+\
 
 ## Ischemic Mitral Regurgitation\
 
@@ -84,7 +87,10 @@ Bicuspid Aortic Valve (BAV) syndrome is associated with frequent and premature o
 
 
 *Funding Source*\
-*R01 HL122805*
+*R01 HL122805*\
+[NIH Reporter](https://reporter.nih.gov/search/ZaoPhLvNK0GqfjFCGu3xvw/project-details/9762185)
+
+\
 
 
 # Biomedical Engineering
