@@ -15,7 +15,6 @@ editor_options:
 
 \
 
-
 ![](images/ferrari.jpg){width=25%}
 
 ### Giovanni Ferrari, PhD
@@ -29,7 +28,6 @@ My main research interests are in heart valve and vascular cell physiology, card
 * [Twitter](https://twitter.com/ferrag02)
 * [Email](mailto:<gf2375@cumc.columbia.edu>)
 
-
 \
 	
 #  Ferrari Lab Members 
@@ -37,6 +35,8 @@ My main research interests are in heart valve and vascular cell physiology, card
 \
 
 ### Associate Research Scientists
+
+\
 
 ![](images/esti.png){width=25%}
 
@@ -54,6 +54,10 @@ Currently, I am leading projects that explore myocardium-cardiac valve communica
 \
 
 #### *Chiara Camillo, PhD*
+
+\
+
+---
 
 \
 
@@ -75,7 +79,13 @@ His research goal is to better understand the mechanisms of cardiovascular impla
 
 \
 
-### Surgical Residents			
+---
+
+\
+
+### Surgical Residents
+
+\
 
 ![](images/abramov.jpg){width=25%}
 
@@ -117,11 +127,13 @@ Michael is a resident in the Integrated Cardiothoracic Surgery residency program
 ![](images/niko.jpg){width=25%}
  
 #### *Nicolò Vitale, MD*\
+*U of Milan*
 
 Nicolò Vitale is cardiac surgery resident at [Università degli studi di Milano](https://www.unimi.it/it). He obtained his MD from Università degli studi di Milano. He is very interested in the mechanisms of ischemic heart failure. He is currently studying the mechanisms of structural degeneration of the pediatric bioprosthetic conduits.
 
 \
 
+---
 
 ### Biobank			
 
@@ -137,26 +149,33 @@ Vivian Moreno is the Clinical Research Coordinator for the Ferrari Lab. She comp
 
 \
 
+---
+
 #### Lab Manager
 
 #### *Mangesh Kurade*
 
 \
 
+---
+
 ### Medical Students
  
-#### *Edoardo Bianco \
-*(U of Bologna)*
+#### *Edoardo Bianco* \
+*U of Bologna*
 
 \
 
 ![](images/evan_woodard.jpg){width=25%}
-#### *Evan Woodard\
-*Morehouse School of Medicine)*
+
+#### *Evan Woodard* \
+*Morehouse School of Medicine*
 
 I am Evan Woodard and I am a current 2nd year medical student at Morehouse School of Medicine interested in a career in cardiothoracic surgery. Some of my research and clinical interest include patient outcomes research and minimally invasive surgical techniques. 
 
 \
+
+---
 
 ### Biomedical Engineering Students		
 
@@ -168,8 +187,9 @@ Mar Martinez Mas is a Master’s student in [Biomedical Engineering at Columbia 
 
 [Email](mailto:<mm5944@columbia.edu>)
 
-
 \
+
+---
 
 ### Chief Vision Officer 
 
@@ -181,6 +201,10 @@ Mar Martinez Mas is a Master’s student in [Biomedical Engineering at Columbia 
 2 years old Irish-Doodle. Strong interest in any type of food.
 Life's not ruff when I am around. Woof
 
+\
+
+---
+
 ### Alumni
 
 Residents
@@ -190,6 +214,7 @@ Postdocs
 
 \
 
+---
 
 #  Collaborators 
 
