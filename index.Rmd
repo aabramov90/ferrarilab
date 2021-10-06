@@ -77,12 +77,17 @@ Integrated program for surgical residents interested in a career in translationa
 \
 
 <i class='fas fa-laptop'></i> [Ferrari Lab – Columbia Biobank for Translational Science](https://columbiasurgery.org/research/ferrari-lab)\
+Columbia University website to learn about the lab
 
 <i class='fas fa-hospital-symbol'></i> [Columbia Cardiac Surgery](https://columbiasurgery.org/heart)\
+Access healthcare services from Columbia Cardiac Surgery 
 
-<i class='fas fa-procedures'></i> [Columbia Surgery Residency Program](https://columbiasurgery.org/general-surgery-residency)
+<i class='fas fa-procedures'></i> [Columbia Surgery Residency Program](https://columbiasurgery.org/general-surgery-residency)\
+Learn about the Columbia Surgery residency program
 
-<i class='fas fa-stethoscope'></i> [Columbia Integrated Cardiothoracic Surgery Residency Program (I-6)](https://columbiasurgery.org/cardiothoracic-training)
+<i class='fas fa-stethoscope'></i> [Columbia Integrated Cardiothoracic Surgery Residency Program (I-6)](https://columbiasurgery.org/cardiothoracic-training)\
+Learn about the Columbia Surgery Integrated Cardiothoracic residency program
+
 
 \
 
