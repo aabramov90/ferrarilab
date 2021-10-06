@@ -3,7 +3,7 @@ title: "About Us"
 subtitle: "*Columbia University Irving Medical Center Cardiothoracic Surgery Research Program*"
 output: 
   html_document:
-    theme: journal
+    css: style2.css
     toc: true
     toc_float: true
     number_sections: false

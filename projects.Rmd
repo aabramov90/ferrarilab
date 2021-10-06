@@ -3,7 +3,7 @@ title: "Our Projects and Publications"
 subtitle: "*Columbia University Irving Medical Center Cardiothoracic Surgery Research Program*"
 output: 
   html_document:
-    css: style2
+    css: style2.css
     theme: journal
     toc: true
     toc_float: true
