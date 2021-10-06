@@ -42,14 +42,14 @@ Coming soon
 
 \
 
-## Photos 
+## <i class='fas fa-camera'></i> Photos 
 
 Coming soon
 
 \
 
 
-##  Navigate
+##  <i class='fas fa-bookmark'></i> Navigate
 
 \
 
