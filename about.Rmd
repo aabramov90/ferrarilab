@@ -11,13 +11,17 @@ editor_options:
   chunk_output_type: console
 ---
 
+<head>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<head>
+
 # Primary Investigator 
 
 \
 
 ![](images/ferrari.jpg){width=25%}
 
-### Giovanni Ferrari, PhD
+### Giovanni Ferrari, PhD 
 
 First-generation graduate at the [U of Pavia](https://web-en.unipv.it) (2003), I am a group leader and Associate Professor (with tenure) in the Columbia University, [Department of Surgery](https://columbiasurgery.org/research) and [School of Biomedical Engineering](https://www.bme.columbia.edu). \
 
@@ -25,7 +29,7 @@ I am the Scientific Director of the [Cardiothoracic Research Program and Directo
 
 My main research interests are in heart valve and vascular cell physiology, cardiac mechanobiology, materials science in medical devices, and the brain-heart axis.
 
-* [Email](mailto:<gf2375@cumc.columbia.edu>)
+<i class="fa fa-telegram"></i> [Email](mailto:<gf2375@cumc.columbia.edu>)
 
 \
 
@@ -53,7 +57,7 @@ I am a Biomedical Researcher with a PhD in Physiology and Endocrinology. My rese
 
 Currently, I am leading projects that explore myocardium-cardiac valve communication in the adaptation to ischemic injury and the role of circulating factors from the skeletal muscle in cardiac remodeling in end-stage heart failure. 
 
-[Email](mailto:<ec2929@cumc.columbia.edu>)\
+<i class="fa fa-telegram"></i> [Email](mailto:<ec2929@cumc.columbia.edu>)\
 *(recommendations for mystery books welcome)*
 
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=02qHMNkAAAAJ)\
@@ -78,7 +82,7 @@ Dr. Yingfei Xue is currently a postdoctoral research scientist in Dr. Giovanni F
 
 His research goal is to better understand the mechanisms of cardiovascular implant failure and improve implant durability. He has 20 publications and served as editorial board member and reviewer for multiple journals in the fields of biomedical engineering.
 
-[Email](mailto:<yx2529@cumc.columbia.edu>)\
+<i class="fa fa-telegram"></i> [Email](mailto:<yx2529@cumc.columbia.edu>)\
 
 \
 
@@ -103,7 +107,7 @@ Dr. Alexey Abramov is a General Surgery resident in the [New York Presbyterian-C
 Currently, he is a post-doctoral research fellow in Dr. Ferrari's lab studying the underlying mechanisms of structural degeneration of bioprosthetic heart valves with next-generation proteomics. He is also pursuing a Master's degree in the [Department of Biostatistics in the Mailmans School of Public Health](https://www.publichealth.columbia.edu/academics/degrees/master-science/clinical-research-methods) track. \
 In his free time, he enjoys the outdoors, hiking, skiing, and riding his road bike.
 
-[Email](mailto:<aa3832@cumc.columbia.edu>)
+<i class="fa fa-telegram"></i> [Email](mailto:<aa3832@cumc.columbia.edu>)
 
 \
  
@@ -119,7 +123,7 @@ Clinton is a resident in  [Integrated Cardiothoracic surgery at New York Presbyt
 
 Now having completed 3 years of residency, he is currently studying the mechanisms of cardiovascular damage related to COVID-19, along with several clinical projects in adult cardiac surgery.   
 
-[Email](mailto:<we2153@cumc.columbia.edu>)
+<i class="fa fa-telegram"></i> [Email](mailto:<we2153@cumc.columbia.edu>)
 
 \
 
@@ -127,7 +131,7 @@ Now having completed 3 years of residency, he is currently studying the mechanis
 
 Michael is a resident in the Integrated Cardiothoracic Surgery residency program at New York Presbyterian-Columbia. He obtained his MD from Columbia University College of Physicians & Surgeons. He has completed three years of his cardiac surgical training and has an interest in aortic surgery and structural heart disease. He is currently studying pathologic mechanisms in mitral valve disease and is involved in several clinical projects across the spectrum of adult cardiac surgery. 
 
-[Email](mailto:<mts2153@cumc.columbia.edu>)
+<i class="fa fa-telegram"></i> [Email](mailto:<mts2153@cumc.columbia.edu>)
 
 \
 
@@ -152,7 +156,7 @@ Nicolò Vitale is cardiac surgery resident at [Università degli studi di Milano
 
 Vivian Moreno is the Clinical Research Coordinator for the Ferrari Lab. She completed her Bachelor’s of Science in Biomedical Science at the [University of Kent in Canterbury, England](https://www.kent.ac.uk). Her research background includes cancer research at Yale University and novel antimicrobial peptides at [NovaBiotics, Ltd](https://novabiotics.co.uk). Her favorite pastimes include playing the piano, volunteering, and working out at AARMY.
 
-[Email](mailto:<vmm2142@cumc.columbia.edu>)
+<i class="fa fa-telegram"></i> [Email](mailto:<vmm2142@cumc.columbia.edu>)
 
 \
 
@@ -194,7 +198,7 @@ I am Evan Woodard and I am a current 2nd year medical student at Morehouse Schoo
 Mar Martinez Mas is a Master’s student in [Biomedical Engineering at Columbia University](https://www.bme.columbia.edu). She is from Barcelona, Spain, and completed her undergraduate degree at [Universitat Pompeu Fabra](https://www.upf.edu/es/) (Barcelona, Spain) where she worked in the field of biomedical electronics. Afterward, she completed the last year and a half of her degree at the [Politecnico di Milano](https://www.polimi.it) (Milan, Italy), where she mainly studied the field of biomechanics.\
 Her main interest lies in prosthetic heart valves and life support systems. She joined the Ferrari Lab in 2021 and is studying the mass and tissue thickening of cardiac valvular bioprostheses under different conditions.
 
-[Email](mailto:<mm5944@columbia.edu>)
+<i class="fa fa-telegram"></i> [Email](mailto:<mm5944@columbia.edu>)
 
 \
 
