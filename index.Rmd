@@ -59,16 +59,16 @@ Coming soon
 \
 
 <i class='fas fa-users'></i> [About Us](about.html)\
-Meet our team
+Meet our team and collaborators
 
 <i class='fas fa-flask'></i> [Projects and Publications](projects.html)\
-Learn about our ongoing projects and publications
+Explore our ongoing projects and publications 
 
 <i class='fas fa-vial'></i> [Cardiothoracic Biobank Inquiries](biobank.html)\
-Resources for accessing our biobank
+Information about our collected biobank specimens
 
 <i class='fas fa-cubes'></i> [Research Program for Residents](program.html)\
-Integrated program for surgical residents interested in a career in translational science 
+Learn about our program for surgical residents interested in a career in translational science
 
 \
 
