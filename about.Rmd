@@ -181,9 +181,11 @@ I am Evan Woodard and I am a current 2nd year medical student at Morehouse Schoo
 
 ![](images/mas.jpg){width=25%}
 
-#### *Mar Martinez Mas (Columbia University)*\
+#### *Mar Martinez Mas*
+*Columbia University*\
 
-Mar Martinez Mas is a Master’s student in [Biomedical Engineering at Columbia University](https://www.bme.columbia.edu). She is from Barcelona, Spain, and completed her undergraduate degree at [Universitat Pompeu Fabra](https://www.upf.edu/es/) (Barcelona, Spain) where she worked in the field of biomedical electronics. Afterward, she completed the last year and a half of her degree at the [Politecnico di Milano](https://www.polimi.it) (Milan, Italy), where she mainly studied the field of biomechanics. Her main interest lies in prosthetic heart valves and life support systems. She joined the Ferrari Lab in 2021 and is studying the mass and tissue thickening of cardiac valvular bioprostheses under different conditions.
+Mar Martinez Mas is a Master’s student in [Biomedical Engineering at Columbia University](https://www.bme.columbia.edu). She is from Barcelona, Spain, and completed her undergraduate degree at [Universitat Pompeu Fabra](https://www.upf.edu/es/) (Barcelona, Spain) where she worked in the field of biomedical electronics. Afterward, she completed the last year and a half of her degree at the [Politecnico di Milano](https://www.polimi.it) (Milan, Italy), where she mainly studied the field of biomechanics.\
+Her main interest lies in prosthetic heart valves and life support systems. She joined the Ferrari Lab in 2021 and is studying the mass and tissue thickening of cardiac valvular bioprostheses under different conditions.
 
 [Email](mailto:<mm5944@columbia.edu>)
 
@@ -260,7 +262,6 @@ The proposed research is relevant to public health because a biostable polymeric
 ### Micheal S Sacks PhD\
 
 *University of Texas at Austin*
-
 
 ![](images/sacks.jpg){width=25%}
 
