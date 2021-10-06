@@ -8,6 +8,9 @@ output:
 editor_options: 
   chunk_output_type: console
 ---
+<head>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
 
 \
 
@@ -28,10 +31,11 @@ Degenerative mitral regurgitation (MR) due to myxomatous valve disease affects m
 </center>
 
 \
+<body>
 
 *Funding Source*\
 *NIH R01HL131872 (Ferrari G - Levy RJ)*\
-[NIH Reporter](https://reporter.nih.gov/search/ZaoPhLvNK0GqfjFCGu3xvw/project-details/10130913)
+<i class='fas fa-flask'></i> [NIH Reporter](https://reporter.nih.gov/search/ZaoPhLvNK0GqfjFCGu3xvw/project-details/10130913)
 
 \
 
@@ -88,7 +92,7 @@ Bicuspid Aortic Valve (BAV) syndrome is associated with frequent and premature o
 
 *Funding Source*\
 *R01 HL122805*\
-[NIH Reporter](https://reporter.nih.gov/search/ZaoPhLvNK0GqfjFCGu3xvw/project-details/9762185)
+<i class='fas fa-flask'></i> [NIH Reporter](https://reporter.nih.gov/search/ZaoPhLvNK0GqfjFCGu3xvw/project-details/9762185)
 
 \
 
@@ -112,7 +116,7 @@ Heart valve disease at this time can only be treated surgically, with either val
 
 *Funding Source*\
 *R01HL143008*\
-[NIH Reporter](https://reporter.nih.gov/search/EpM1RwPYiUeXjqUjLqrCFg/project-details/10202704)
+<i class='fas fa-flask'></i> [NIH Reporter](https://reporter.nih.gov/search/EpM1RwPYiUeXjqUjLqrCFg/project-details/10202704)
 
 
 
@@ -152,7 +156,7 @@ Type 2 Diabetes mellitus (T2DM) is a well-known risk factor for heart valve dise
 
 *Funding Source*\
 *Russell Berrie Foundation Pre-translational Diabetes Research Award*\
-[*Russell Berrie Foundation*](https://www.russellberriefoundation.org/diabetes-care-and-research)
+<i class='fas fa-vial'></i> [*Russell Berrie Foundation*](https://www.russellberriefoundation.org/diabetes-care-and-research)
 \
 
 # Covid-19 Cardiac Injury
@@ -175,7 +179,7 @@ As a result of the COVID-19 pandemic, it has been shown that patients with pre-e
 
 *Funding Source*\
 *John Jones Surgical Society Fellowship*\
-[*John Jones Surgical Society*](https://columbiasurgery.org/alumni/john-jones-surgical-society)
+<i class='fas fa-book'></i> [*John Jones Surgical Society*](https://columbiasurgery.org/alumni/john-jones-surgical-society)
 
 # Surgical Innovation\
 
