@@ -29,8 +29,11 @@ My main research interests are in heart valve and vascular cell physiology, card
 
 \
 
-<a href="https://twitter.com/ferrag02?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @ferrag02</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<center>
 
+<a class="twitter-timeline" data-width="350" data-height="650" href="https://twitter.com/ferrag02?ref_src=twsrc%5Etfw">Tweets by ferrag02</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+</center>
 
 \
 	
