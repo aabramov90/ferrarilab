@@ -19,6 +19,8 @@ editor_options:
 
 ## <i class='fas fa-compass'></i> Our Lab
 
+\
+
 <center>
 
 Welcome to the Ferrari Laboratory website.  \
@@ -27,7 +29,7 @@ We are located at the Columbia University Irving Medical Center in New York City
 
 \
 
-![](images/nyc.jpg){width=85%}
+![](images/nyc.jpg){width=90%}
 
 </center>
 
