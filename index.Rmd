@@ -48,7 +48,7 @@ editor_options:
 \
 
 
-## <i class='fas fa-rss-square'></i> Lab in the News
+## <i class='fas fa-rss-square'></i> Lab News
 
 \
 
