@@ -19,7 +19,17 @@ editor_options:
 
 ## <i class='fas fa-compass'></i> Our Lab
 
-Welcome to the Ferrari Laboratory website.  We are located at the Columbia University Irving Medical Center in New York City, New York.
+<center>
+
+Welcome to the Ferrari Laboratory website.  \
+
+We are located at the Columbia University Irving Medical Center in New York City, New York.
+
+\
+
+![](images/nyc.jpg){width=85%}
+
+</center>
 
 \
 
@@ -38,7 +48,20 @@ Welcome to the Ferrari Laboratory website.  We are located at the Columbia Unive
 
 ## <i class='fas fa-rss-square'></i> Lab in the News
 
-Coming soon
+\
+
+<div id="demobox">
+October 2021\
+Launched Ferrari Lab website.
+</div>
+
+\
+
+<div id="demobox">
+October 2021\
+Alexey Abramov's abstract titled "Extracorporeal Membrane Oxygenation (ECMO) Support in Patients with Covid-19: A Historical Control Propensity Score Matched Study" was accepted for an oral presentation at the annual meeting for the Society of Thoracic Surgeons (STS) in Miami, FL.  
+</div>
+
 
 \
 
