@@ -23,9 +23,9 @@ editor_options:
 
 <center>
 
-Welcome to the Ferrari Laboratory website.  \
+**Welcome to the Ferrari Laboratory website.**  \
 
-We are located at the Columbia University Irving Medical Center in New York City, New York.
+**We are located at the Columbia University Irving Medical Center in New York City, New York.**
 
 \
 
@@ -111,16 +111,25 @@ Learn about our program for surgical residents interested in a career in transla
 \
 
 <i class='fas fa-laptop'></i> [Ferrari Lab – Columbia Biobank for Translational Science](https://columbiasurgery.org/research/ferrari-lab)\
-Columbia University website to learn about the lab
+Columbia University Ferrari lab website
+
+---
 
 <i class='fas fa-hospital-symbol'></i> [Columbia Cardiac Surgery](https://columbiasurgery.org/heart)\
-Access healthcare services from Columbia Cardiac Surgery 
-
-<i class='fas fa-procedures'></i> [Columbia Surgery Residency Program](https://columbiasurgery.org/general-surgery-residency)\
-Learn about the Columbia Surgery residency program
+Meet the surgeons from the Columbia Cardiac Surgery team
 
 <i class='fas fa-stethoscope'></i> [Columbia Integrated Cardiothoracic Surgery Residency Program (I-6)](https://columbiasurgery.org/cardiothoracic-training)\
-Learn about the Columbia Surgery Integrated Cardiothoracic residency program
+Learn about the Columbia Integrated Cardiothoracic Surgery residency program
+
+---
+
+<i class="fa fa-hospital-o" aria-hidden="true"></i> [Columbia General Surgery](https://columbiasurgery.org/)\
+Meet the surgeons from the Columbia General Surgery team
+
+
+
+<i class='fas fa-procedures'></i> [Columbia Surgery Residency Program](https://columbiasurgery.org/general-surgery-residency)\
+Learn about the Columbia General Surgery residency program
 
 
 \

@@ -50,7 +50,7 @@ body {
 }
 
 .tocify ul, .tocify li { /* Increases spacing between TOC headers*/
-    line-height: 25px;
+    line-height: 35px;
 }
 
 
