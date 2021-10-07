@@ -15,6 +15,8 @@ editor_options:
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <head>
 
+\
+
 # Principal Investigator 
 
 \
@@ -73,6 +75,8 @@ Currently, I am leading projects that explore myocardium-cardiac valve communica
 \
 
 ### Postdoctoral Research Fellows	
+
+\
 
 ![](images/xue.JPG){width=25%}
 
@@ -137,7 +141,7 @@ Now having completed 3 years of residency, he is currently studying the mechanis
 
 #### *Michael Simpson, MD*
 
-Michael is a resident in the Integrated Cardiothoracic Surgery residency program at New York Presbyterian-Columbia. He obtained his MD from Columbia University College of Physicians & Surgeons. He has completed three years of his cardiac surgical training and has an interest in aortic surgery and structural heart disease. He is currently studying pathologic mechanisms in mitral valve disease and is involved in several clinical projects across the spectrum of adult cardiac surgery. 
+Michael is a resident in the [Integrated Cardiothoracic surgery at New York Presbyterian-Columbia](https://columbiasurgery.org/cardiothoracic-training). He obtained his MD from [Columbia University College of Physicians & Surgeons](https://www.vagelos.columbia.edu/education/academic-programs/md-program). He has completed three years of his cardiac surgical training and has an interest in aortic surgery and structural heart disease. He is currently studying pathologic mechanisms in mitral valve disease and is involved in several clinical projects across the spectrum of adult cardiac surgery. 
 
 <i class="fa fa-telegram"></i> [Email](mailto:<mts2153@cumc.columbia.edu>)
 
@@ -181,7 +185,11 @@ Vivian Moreno is the Clinical Research Coordinator for the Ferrari Lab. She comp
 ### Medical Students
  
 #### *Edoardo Bianco* \
-*U of Bologna*
+*U of Bologna*\
+
+![](images/edoardo.jpg){width=25%}
+
+I am a current medical student in my  fifth year at the [Alma Mater Studiorum Università di Bologna](https://www.unibo.it/en). I developed an interest for cardiac surgery in my third year. My research and clinical interest mainly involve the study of the aortic pathology, and particularly the treatment of the acute aortic syndrome and the subcellular mechanisms involved in the pathogenesis of it.  
 
 \
 

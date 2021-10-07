@@ -56,6 +56,9 @@ Ischemic mitral regurgitation (IMR) often develops after an ischemic event, whic
 
 \
 
+---
+
+\
 
 # Aortic Valve\
 
@@ -71,6 +74,10 @@ This program is concerned with modulating oxidative glycation reactions in speci
 \
 
 </center>
+
+\
+
+---
 
 \
 
@@ -96,12 +103,18 @@ Bicuspid Aortic Valve (BAV) syndrome is associated with frequent and premature o
 *R01 HL122805*\
 <i class='fas fa-flask'></i> [NIH Reporter](https://reporter.nih.gov/search/ZaoPhLvNK0GqfjFCGu3xvw/project-details/9762185)
 
+
 \
+
+---
+
+\
+
 
 
 # Biomedical Engineering
 
-## Glycation-mediated mechanisms of Bioprosthetic Heart Valve Failure\
+## Glycation-mediated Mechanisms of Bioprosthetic Heart Valve Failure\
 
 Heart valve disease at this time can only be treated surgically, with either valve replacement or repair.  Bioprosthetic heart valves (BHV), fabricated from glutaraldehyde fixed heterografts, such as bovine pericardium (BP) or porcine aortic valves (PAV), are widely used in both cardiac surgery and in transcatheter valve replacements. Despite outstanding short-term outcomes, BHV dysfunction due to structural valve leaflet degeneration (SVD) develops over time, frequently necessitating device replacement. Calcification is observed in the majority of SVD cases; however, 25% or more SVD cases are not associated with calcification. Recent work from our group demonstrated that BHV are susceptible to non-calcification induced failure mechanisms, involving the formation of unique oxidized amino acids (OxAA) in BHV, such as the crosslink, di-tyrosine (di-Tyr). Feasibility studies also recently documented in BHV explant samples the presence of advanced glycation end products (AGE). The contributions of both AGE and OxAA to SVD pathophysiology has not been previously investigated by our group or others. We are studying the hypotheses that the accumulation of AGE in BHV leaflets together with the receptor for AGE (RAGE) mediated inflammatory response, and OxAA modification of structural proteins contribute to BHV SVD. These mechanisms also are hypothesized to interact with BHV calcification and co-morbidities, such as diabetes and coronary artery disease to enhance SVD.
 
@@ -159,7 +172,14 @@ Type 2 Diabetes mellitus (T2DM) is a well-known risk factor for heart valve dise
 *Funding Source*\
 *Russell Berrie Foundation Pre-translational Diabetes Research Award*\
 <i class='fas fa-vial'></i> [*Russell Berrie Foundation*](https://www.russellberriefoundation.org/diabetes-care-and-research)
+
+
 \
+
+---
+
+\
+
 
 # Covid-19 Cardiac Injury
 
@@ -182,6 +202,15 @@ As a result of the COVID-19 pandemic, it has been shown that patients with pre-e
 *Funding Source*\
 *John Jones Surgical Society Fellowship*\
 <i class='fas fa-book'></i> [*John Jones Surgical Society*](https://columbiasurgery.org/alumni/john-jones-surgical-society)
+
+
+\
+
+---
+
+\
+
+
 
 # Surgical Innovation\
 

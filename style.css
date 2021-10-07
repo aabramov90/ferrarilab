@@ -15,9 +15,8 @@ body {
 #TOC::before {
   content: "";
   display: block;
-  height: 200px;
+  height: 25px;
   margin: 2.75em 20px 40px 20px;
-  background-image: url("logo.png");
   background-size: contain;
   background-position: center center;
   background-repeat: no-repeat;
@@ -47,7 +46,7 @@ body {
 .tocify {
   border: none;   /*Removes border */
   border-radius: 0px; /* Gets rid of rounded corners on TOC */
-  font-size: 16px;
+  font-size: 30px;
 }
 
 .tocify ul, .tocify li { /* Increases spacing between TOC headers*/
@@ -134,7 +133,7 @@ body {
 
 .list-group-item {
     color: #7b8a8b;
-    font-size: 16px;
+    font-size: 22px;
 }
 
 .list-group-item.active {
