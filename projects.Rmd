@@ -234,5 +234,10 @@ A way to address Bioprosthetic heart valves (BHV) glycation in heart valve repla
 #### Envisioned Healthcare Product\
 The technology aims to extend BHV lifespans by chemically modifying BHV tissues to render them inert to physiologic glycation and associated protein incorporation, two interacting, key mechanisms of SVD they recently discovered. By addressing BHV glycation in heart valve replacements, the team hopes to mitigate structural valve degeneration and device failure for all BHV implant recipients, especially younger patients and diabetics.
 
+
 \
+
+<p style="text-align:right;font-size:12px;">*Website built by A Abramov, Oct 2021*</p>
+
+
 

@@ -29,7 +29,7 @@ editor_options:
 
 \
 
-![](images/nyc.jpg){width=90%}
+![](images/nyc.jpg){width=80%}
 
 </center>
 
@@ -41,7 +41,7 @@ editor_options:
 
 <center>
 
-![](images/research.png){width=85%}
+![](images/research.png){width=65%}
 
 </center>
 
@@ -135,3 +135,8 @@ Learn about the Columbia General Surgery residency program
 \
 
 </body>
+
+\
+
+<p style="text-align:right;font-size:12px;">*Website built by A Abramov, Oct 2021*</p>
+
