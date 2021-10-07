@@ -23,9 +23,15 @@ Welcome to the Ferrari Laboratory website.  We are located at the Columbia Unive
 
 \
 
-## <i class='fas fa-flask'></i> Our Research
+## <i class='fas fa-flask'></i> Our Research\
 
-Coming soon
+\
+
+<center>
+
+![](images/research.png){width=85%}
+
+</center>
 
 \
 

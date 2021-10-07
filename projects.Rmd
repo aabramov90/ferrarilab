@@ -185,8 +185,24 @@ As a result of the COVID-19 pandemic, it has been shown that patients with pre-e
 
 # Surgical Innovation\
 
-## Patents\
+\
 
-## Awards and Course\
+## AGEless Valve 
 
-## Start Up\
+\
+
+### Anti-Glycation Modification of Bioprosthetic Heart Valve Tissues to Enhance Valve Lifespan\
+
+[AGEless Valve Website](http://columbiabiomedx.com/ageless)\
+
+\
+
+#### Unmet Medical Need\
+
+A way to address Bioprosthetic heart valves (BHV) glycation in heart valve replacement patients in order to mitigate structural valve degeneration and device failure
+
+#### Envisioned Healthcare Product\
+The technology aims to extend BHV lifespans by chemically modifying BHV tissues to render them inert to physiologic glycation and associated protein incorporation, two interacting, key mechanisms of SVD they recently discovered. By addressing BHV glycation in heart valve replacements, the team hopes to mitigate structural valve degeneration and device failure for all BHV implant recipients, especially younger patients and diabetics.
+
+\
+

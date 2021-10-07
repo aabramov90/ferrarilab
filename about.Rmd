@@ -15,7 +15,7 @@ editor_options:
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <head>
 
-# Primary Investigator 
+# Principal Investigator 
 
 \
 
@@ -60,7 +60,7 @@ Currently, I am leading projects that explore myocardium-cardiac valve communica
 <i class="fa fa-telegram"></i> [Email](mailto:<ec2929@cumc.columbia.edu>)\
 *(recommendations for mystery books welcome)*
 
-[Google Scholar](https://scholar.google.com/citations?hl=en&user=02qHMNkAAAAJ)\
+<i class="fa fa-book"></i> [Google Scholar](https://scholar.google.com/citations?hl=en&user=02qHMNkAAAAJ)\
 
 \
 
@@ -82,7 +82,9 @@ Dr. Yingfei Xue is currently a postdoctoral research scientist in Dr. Giovanni F
 
 His research goal is to better understand the mechanisms of cardiovascular implant failure and improve implant durability. He has 20 publications and served as editorial board member and reviewer for multiple journals in the fields of biomedical engineering.
 
-<i class="fa fa-telegram"></i> [Email](mailto:<yx2529@cumc.columbia.edu>)\
+<i class="fa fa-telegram"></i>  [Email](mailto:<yx2529@cumc.columbia.edu>)\
+
+<i class="fa fa-book"></i>  [Google Scholar](https://scholar.google.com/citations?user=W8-jXZ0AAAAJ&hl=en)
 
 \
 
