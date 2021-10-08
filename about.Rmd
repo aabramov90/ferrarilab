@@ -183,11 +183,13 @@ Vivian Moreno is the Clinical Research Coordinator for the Ferrari Lab. She comp
 ---
 
 ### Medical Students
- 
-#### *Edoardo Bianco* \
-*U of Bologna*\
+
+\
 
 ![](images/edoardo.jpg){width=25%}
+
+#### *Edoardo Bianco* \
+*U of Bologna*\
 
 I am a current medical student in my  fifth year at the [Alma Mater Studiorum Università di Bologna](https://www.unibo.it/en). I developed an interest for cardiac surgery in my third year. My research and clinical interest mainly involve the study of the aortic pathology, and particularly the treatment of the acute aortic syndrome and the subcellular mechanisms involved in the pathogenesis of it.  
 
