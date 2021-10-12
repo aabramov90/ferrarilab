@@ -55,7 +55,7 @@ My main research interests are in heart valve and vascular cell physiology, card
 
 ![](images/esti.png){width=25%}
 
-#### *Esti Castillero, PhD*
+#### *Estibaliz Castillero, PhD*
 
 I am a Biomedical Researcher with a PhD in Physiology and Endocrinology. My research focuses on the study of the advanced stages of myocardial and cardiac valve remodeling. My research argues that cardiac remodeling is regulated both at a local and systemic level and that it may, in turn, affect remote tissues by endocrine crosstalk. \
 
@@ -70,9 +70,20 @@ Currently, I am leading projects that explore myocardium-cardiac valve communica
 
 \
 
+![](images/Chiara.jpg){width=25%}
+
 #### *Chiara Camillo, PhD*
 
+Dr. Camillo is a cellular biologist studying the molecular mechanisms that regulate endothelium and vascular morphogenesis. Broadly, her research focuses on translational and clinical approaches to studying cardiovascular diseases using both in vitro and in vivo models. Dr. Camillo is leading projects on thoracic aortic aneurysm development, focused on determining the impact of glycation products on cellular phenotype, extracellular matrix remodeling and aortic wall instability. 
+
+“Sciences provide an understanding of a universal experience, Arts are a universal understanding of a personal experience... they are both a part of us and a manifestation of the same thing... the arts and sciences are avatars of human creativity” -- Mae Jemison
+
 \
+
+<i class="fa fa-telegram"></i> [Email](mailto:<cc4418@cumc.columbia.edu>)\
+
+<i class="fa fa-book"></i> [ORCID](https://orcid.org/0000-0001-8000-3188)\
+
 
 ---
 
