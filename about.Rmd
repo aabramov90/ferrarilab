@@ -280,9 +280,7 @@ General Surgery Resident	(2019-2020) \
 
 Levy is the director of Cardiology Research, and also serves as program director of the Cardiology [National Heart, Lung, and Blood Institute (NHLBI)](http://www.nhlbi.nih.gov) Research Training Grant. 
 
-His research interests are the pathophysiology of biomaterials used in medicine, basic mechanisms and novel therapies for heart valve disease, arterial angioplasty, local drug delivery, and nanomedicine. He also has experience over three decades in medical device development.
-
-\
+His research interests are the pathophysiology of biomaterials used in medicine, basic mechanisms and novel therapies for heart valve disease, arterial angioplasty, local drug delivery, and nanomedicine. He also has experience over three decades in medical device development.\
 
 *R01HL131872*
 
@@ -304,9 +302,7 @@ Columbia University College of Physicians and Surgeons\
 
  Expandable Polymeric-valved Conduit to Repair Congenital Heart Disease 
 
-The proposed research is relevant to public health because a biostable polymeric valved conduit that can be implanted surgically to reconstruct the right ventricular outflow tract in neonates and infants and then expanded by successive transcatheter procedures to reach the adult size, would revolutionize how we treat children with heart valve diseases. Such a new generation of valved conduit would decrease the number of open-heart surgeries and reoperations, decrease the mortality, complications and healthcare costs related to these procedures and increase the life expectancy and quality of life of these patients.
-
-\
+The proposed research is relevant to public health because a biostable polymeric valved conduit that can be implanted surgically to reconstruct the right ventricular outflow tract in neonates and infants and then expanded by successive transcatheter procedures to reach the adult size, would revolutionize how we treat children with heart valve diseases. Such a new generation of valved conduit would decrease the number of open-heart surgeries and reoperations, decrease the mortality, complications and healthcare costs related to these procedures and increase the life expectancy and quality of life of these patients.\
 
 *R01HL155381*
 
@@ -320,9 +316,10 @@ The proposed research is relevant to public health because a biostable polymeric
 
 The bicuspid aortic valve (BAV) is the most common cardiac congenital anomaly. Due to the widespread availability and routine use of screening echocardiography, development of clinical methods for the identification of asymptomatic young patients with BAV is now realistic. We thus plan to develop sensitive, clinically derivable functional indices that will yield clinically relevant patient- specific strategies for identifying BAV patients at high risk.\
 
+*R01HL142504*
+
 \
 
-*R01HL142504*
 
 [Lab Website](https://wccms.oden.utexas.edu)
 
