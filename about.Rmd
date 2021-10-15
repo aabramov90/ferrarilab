@@ -117,7 +117,7 @@ His research goal is to better understand the mechanisms of cardiovascular impla
 
 \
 
-![](images/Abramov.jpg){width=25%}
+![](images/abramov.jpg){width=25%}
 
 #### *Alexey Abramov, MD*
 
